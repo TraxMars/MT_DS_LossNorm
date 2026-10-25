@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "cases": 8,
+  "probe_cases": 4,
+  "crops": 16,
+  "primary_dose": 0.03,
+  "primary_margin": 1.0,
+  "actual_interventions": 7392,
+  "invalid_interventions": 0,
+  "actual_boundary_direction_indeterminate_fraction": 0.08455086580086581,
+  "probe_scoring": "discovery fixed signed response per unit L2; no probe reranking",
+  "local_scoring": "probe GT-gradient rows separate",
+  "case_bootstrap_replicates": 2000,
+  "independent_generalization": false,
+  "C2_C3_executed": false
+}

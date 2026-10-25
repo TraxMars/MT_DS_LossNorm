@@ -1,0 +1,31 @@
+{
+  "phase": "probe",
+  "base_commit": "ae073c55f9b362714a444bd83c6acbb886cba2d3",
+  "sources": {
+    "test_all.py": "7369f64553055ff4ec6ac75ac81d0bc22b3643dcedbd14bd0dd814dbb9c4fef4",
+    "control_pairs.py": "d23b8e6fdf623d2366b031168afd51bf44b7022760bb7704b52e45d4a8d3cea4",
+    "freeze_sensitivity.py": "af8f79a59f6ee1f9757b291934d5c326fe12aa1c104f581552010c8cb5da2e0c",
+    "verify_c1.py": "3282d6cd1bded47feeb4cdbcb9898708768c4e474c045c109bf120acc536cd31",
+    "summarize_c1.py": "675dc0afef347700815e5c77b299c0d72eafc7d4ae93844137d7b5fbee2157a7",
+    "targets.py": "52626e5b1369f89e6d9d9f8336ec412f088d5424206ebd5252c591af34b5e250",
+    "figures_c1.py": "3f5505988b837cbaa024977e457640ab088b1df2371476bfc43f958adbe78e7c",
+    "bridge.py": "05aca1233b0441a23c5abec5c543a9b551fa7e7559f41ac6d5da97aad9f3314e",
+    "runner.py": "484f1ce311d0762af077533efd9c118bdc56b01d19ba6adf378d6fd064cbe0aa",
+    "measures.py": "ff9066b832de88a0e38115dc281c24ef85bcf9d401c428041265f44c997c064c"
+  },
+  "design_sha256": "faf33a060e7286195b8a5eb59373cba6a2c72ae5f24b0e6fac9b2e2bd9f9b248",
+  "frozen_plan_sha256_before_probe": "05f68c2826715d6a0e3b973c7ce4ef411dcb07f60512bba63282879c15da9c8b",
+  "cases": [
+    "0RZDK210BSMWAA6467LU",
+    "1GU15S0GJ6PFNARO469W",
+    "23X6SY44VT9KFHR7S7OC",
+    "38CWS74285MFGZZXR09Z"
+  ],
+  "device": "cuda:0",
+  "gpu": "NVIDIA A100-SXM4-40GB",
+  "torch": "2.9.1+cu126",
+  "numpy": "1.26.4",
+  "TF32": false,
+  "mode": "eval",
+  "checkpoint_sha256": "85489c52c0905aebde65eacf5cea215aac51ee825ed3e5a845da86fe7f23e168"
+}

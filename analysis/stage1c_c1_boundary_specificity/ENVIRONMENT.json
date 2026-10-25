@@ -1,0 +1,23 @@
+{
+  "created_utc": "2026-10-23T16:06:54.419504+00:00",
+  "python": "3.10.22",
+  "executable": "/aita_data/home/aita_duanxuelong/.conda/envs/SSL29/bin/python",
+  "torch": "2.9.1+cu126",
+  "CUDA": "12.6",
+  "numpy": "1.26.4",
+  "scipy": "1.11.4",
+  "pandas": "2.3.3",
+  "matplotlib": "3.10.9",
+  "h5py": "3.16.0",
+  "gpu": "NVIDIA A100-SXM4-40GB",
+  "gpu_device": "cuda:0",
+  "network_precision": "FP32",
+  "diagnostic_loss_precision": "FP64",
+  "TF32": false,
+  "cudnn_deterministic": true,
+  "cudnn_benchmark": false,
+  "torch_deterministic_algorithms": false,
+  "seed": 142,
+  "model_mode": "eval",
+  "new_packages_installed": false
+}

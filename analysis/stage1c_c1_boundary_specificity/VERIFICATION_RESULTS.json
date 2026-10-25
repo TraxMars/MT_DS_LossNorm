@@ -1,0 +1,70 @@
+{
+  "status": "PASS",
+  "numpy_replayed_primary_predictions": 36960,
+  "max_numpy_inner_product_error": 7.216449660063518e-16,
+  "max_numpy_prediction_error": 1.5439038936193583e-16,
+  "max_numpy_raw_loss_error": 7.859490835926408e-12,
+  "phases": [
+    {
+      "phase": "discovery",
+      "model_invariants": {
+        "student_state_unchanged": true,
+        "teacher_state_unchanged": true,
+        "teacher_frozen": true,
+        "no_grad_slots": true,
+        "both_eval": true,
+        "torch_rng_unchanged": true,
+        "cuda_rng_unchanged": true,
+        "numpy_rng_unchanged": true,
+        "python_rng_unchanged": true,
+        "no_leftover_hooks": true,
+        "L_only_access": true,
+        "data_stats_unchanged": true,
+        "frozen_plan_unchanged": true
+      },
+      "crops": 8,
+      "interventions": 3696,
+      "energy_max_relative_error": 1.5354863378603426e-05,
+      "final_logits_changed_fraction": 1.0,
+      "parameter_and_C0_replays": 100,
+      "reference_max_relative_error": 0.0,
+      "L_only_access": true
+    },
+    {
+      "phase": "probe",
+      "model_invariants": {
+        "student_state_unchanged": true,
+        "teacher_state_unchanged": true,
+        "teacher_frozen": true,
+        "no_grad_slots": true,
+        "both_eval": true,
+        "torch_rng_unchanged": true,
+        "cuda_rng_unchanged": true,
+        "numpy_rng_unchanged": true,
+        "python_rng_unchanged": true,
+        "no_leftover_hooks": true,
+        "L_only_access": true,
+        "data_stats_unchanged": true,
+        "frozen_plan_unchanged": true
+      },
+      "crops": 8,
+      "interventions": 3696,
+      "energy_max_relative_error": 1.7037452033399237e-05,
+      "final_logits_changed_fraction": 1.0,
+      "parameter_and_C0_replays": 80,
+      "reference_max_relative_error": 0.0,
+      "L_only_access": true
+    }
+  ],
+  "history": {
+    "status": "PASS",
+    "checked_files": 1198,
+    "changed": []
+  },
+  "frozen_discovery_scores_reconstructed": true,
+  "probe_plan_hash_verified": true,
+  "unit_tests": 69,
+  "C2_C3_executed": false,
+  "optimizer_steps": 0,
+  "checkpoint_writes": 0
+}

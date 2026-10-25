@@ -1,0 +1,21 @@
+{
+  "status": "COMPLETE",
+  "implementation_verification": "PASS",
+  "substage": "C1",
+  "base_commit": "ae073c55f9b362714a444bd83c6acbb886cba2d3",
+  "cases": 8,
+  "crops": 16,
+  "formal_diagnostic_interventions": 7392,
+  "smoke_interventions": 360,
+  "unit_tests": 70,
+  "historical_files_unchanged": 1198,
+  "original_baseline_compatible": true,
+  "transition_boundary_quality_benefit_supported": false,
+  "recommendation": "redesign labeled boundary objective before C2",
+  "independent_generalization": false,
+  "optimizer_steps": 0,
+  "checkpoint_writes": 0,
+  "C2_executed": false,
+  "C3_executed": false,
+  "channel_group_interactions": false
+}

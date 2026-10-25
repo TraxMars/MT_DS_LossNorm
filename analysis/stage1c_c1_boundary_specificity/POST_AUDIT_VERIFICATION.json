@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "created_utc": "2026-10-23T16:04:40.280346+00:00",
+  "unchanged_transfer_records": 3360,
+  "primary_transfer_statistics_unchanged": true,
+  "unreliable_local_far_cases": [
+    "0RZDK210BSMWAA6467LU",
+    "1GU15S0GJ6PFNARO469W",
+    "38CWS74285MFGZZXR09Z"
+  ],
+  "undefined_local_far_summary_rows": 90,
+  "final_unit_tests": 70,
+  "history": {
+    "status": "PASS",
+    "checked_files": 1198,
+    "changed": []
+  },
+  "raw_replay_report_sha256": "53bb435ad9c08089a87a8158c42f48adf0986fd04b14f86b7b020592f0513cc9"
+}
