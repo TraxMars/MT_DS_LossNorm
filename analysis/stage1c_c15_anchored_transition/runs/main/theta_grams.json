@@ -1,0 +1,914 @@
+[
+  {
+    "case": "06SR5RBREL16DQ6M8LWS",
+    "index": 0,
+    "repeat": 0,
+    "gram": {
+      "boundary": {
+        "boundary": 53.67360940060673,
+        "anchor": 95.09445325093667,
+        "transition": -1.6458604605903226,
+        "permuted": 54.03023160799167,
+        "region": 4.486783353718342,
+        "supervised": 1.1616028060491026
+      },
+      "anchor": {
+        "boundary": 95.09445325093667,
+        "anchor": 175.5041230952828,
+        "transition": -3.9894502538609147,
+        "permuted": 92.18292297151893,
+        "region": 7.704076953514633,
+        "supervised": 1.9214197136057112
+      },
+      "transition": {
+        "boundary": -1.6458604605903226,
+        "anchor": -3.9894502538609147,
+        "transition": 1.0933656762384214,
+        "permuted": -1.2654198289246454,
+        "region": -0.08854400446585756,
+        "supervised": 0.0019864423849017356
+      },
+      "permuted": {
+        "boundary": 54.03023160799167,
+        "anchor": 92.18292297151893,
+        "transition": -1.2654198289246454,
+        "permuted": 108.73350026736661,
+        "region": 4.961082409724336,
+        "supervised": 1.4282898462721434
+      },
+      "region": {
+        "boundary": 4.486783353718342,
+        "anchor": 7.704076953514633,
+        "transition": -0.08854400446585756,
+        "permuted": 4.961082409724336,
+        "region": 0.3963461674515431,
+        "supervised": 0.10622851724074821
+      },
+      "supervised": {
+        "boundary": 1.1616028060491026,
+        "anchor": 1.9214197136057112,
+        "transition": 0.0019864423849017356,
+        "permuted": 1.4282898462721434,
+        "region": 0.10622851724074821,
+        "supervised": 0.03929304490723699
+      }
+    },
+    "coordinate_kind": "all_existing_parameters",
+    "parameter_count": 124
+  },
+  {
+    "case": "06SR5RBREL16DQ6M8LWS",
+    "index": 1,
+    "repeat": 1,
+    "gram": {
+      "boundary": {
+        "boundary": 55.19441703976332,
+        "anchor": 94.0257590538317,
+        "transition": -1.59117943981675,
+        "permuted": 64.79708973336494,
+        "region": 4.784993342215115,
+        "supervised": 1.2085590697961446
+      },
+      "anchor": {
+        "boundary": 94.0257590538317,
+        "anchor": 167.34128536914022,
+        "transition": -4.247038743378264,
+        "permuted": 106.71522893056961,
+        "region": 7.867618270066656,
+        "supervised": 1.9302175281078615
+      },
+      "transition": {
+        "boundary": -1.59117943981675,
+        "anchor": -4.247038743378264,
+        "transition": 1.1946792525530552,
+        "permuted": -1.6576724150182032,
+        "region": -0.07326712426973182,
+        "supervised": 0.011839257337713172
+      },
+      "permuted": {
+        "boundary": 64.79708973336494,
+        "anchor": 106.71522893056961,
+        "transition": -1.6576724150182032,
+        "permuted": 120.33794274782508,
+        "region": 6.026262031920337,
+        "supervised": 1.6709084982952227
+      },
+      "region": {
+        "boundary": 4.784993342215115,
+        "anchor": 7.867618270066656,
+        "transition": -0.07326712426973182,
+        "permuted": 6.026262031920337,
+        "region": 0.44119766310923436,
+        "supervised": 0.1146661481498708
+      },
+      "supervised": {
+        "boundary": 1.2085590697961446,
+        "anchor": 1.9302175281078615,
+        "transition": 0.011839257337713172,
+        "permuted": 1.6709084982952227,
+        "region": 0.1146661481498708,
+        "supervised": 0.03946861647830332
+      }
+    },
+    "coordinate_kind": "all_existing_parameters",
+    "parameter_count": 124
+  },
+  {
+    "case": "1D7CUD1955YZPGK8XHJX",
+    "index": 4,
+    "repeat": 0,
+    "gram": {
+      "boundary": {
+        "boundary": 30.70276392363644,
+        "anchor": 55.42803754787974,
+        "transition": -2.205963747170919,
+        "permuted": 43.66977154148322,
+        "region": 2.360312170943989,
+        "supervised": 0.5848017446220087
+      },
+      "anchor": {
+        "boundary": 55.42803754787974,
+        "anchor": 109.90173458944759,
+        "transition": -5.787363570012927,
+        "permuted": 85.60486740880101,
+        "region": 4.1445544949767745,
+        "supervised": 1.0237634263597377
+      },
+      "transition": {
+        "boundary": -2.205963747170919,
+        "anchor": -5.787363570012927,
+        "transition": 2.810250590240295,
+        "permuted": -3.548013435269337,
+        "region": -0.14611413469095538,
+        "supervised": -0.0013907176631777732
+      },
+      "permuted": {
+        "boundary": 43.66977154148322,
+        "anchor": 85.60486740880101,
+        "transition": -3.548013435269337,
+        "permuted": 97.60008352809072,
+        "region": 3.398494288262671,
+        "supervised": 0.9605876740033887
+      },
+      "region": {
+        "boundary": 2.360312170943989,
+        "anchor": 4.1445544949767745,
+        "transition": -0.14611413469095538,
+        "permuted": 3.398494288262671,
+        "region": 0.1871979469658121,
+        "supervised": 0.04633043430127231
+      },
+      "supervised": {
+        "boundary": 0.5848017446220087,
+        "anchor": 1.0237634263597377,
+        "transition": -0.0013907176631777732,
+        "permuted": 0.9605876740033887,
+        "region": 0.04633043430127231,
+        "supervised": 0.01862549202108845
+      }
+    },
+    "coordinate_kind": "all_existing_parameters",
+    "parameter_count": 124
+  },
+  {
+    "case": "1D7CUD1955YZPGK8XHJX",
+    "index": 5,
+    "repeat": 1,
+    "gram": {
+      "boundary": {
+        "boundary": 22.182341415813553,
+        "anchor": 39.26387136302663,
+        "transition": -2.6652993180285325,
+        "permuted": 34.06151571602634,
+        "region": 1.8532530566294423,
+        "supervised": 0.481902563331015
+      },
+      "anchor": {
+        "boundary": 39.26387136302663,
+        "anchor": 75.05938477764963,
+        "transition": -7.0377933318541785,
+        "permuted": 64.86484853986511,
+        "region": 3.1902907238856417,
+        "supervised": 0.7932517447110478
+      },
+      "transition": {
+        "boundary": -2.6652993180285325,
+        "anchor": -7.0377933318541785,
+        "transition": 3.080492403731667,
+        "permuted": -5.144248465066983,
+        "region": -0.18142324892678696,
+        "supervised": -0.015959083588687677
+      },
+      "permuted": {
+        "boundary": 34.06151571602634,
+        "anchor": 64.86484853986511,
+        "transition": -5.144248465066983,
+        "permuted": 73.13584306551562,
+        "region": 2.8923716757846187,
+        "supervised": 0.7530819704092295
+      },
+      "region": {
+        "boundary": 1.8532530566294423,
+        "anchor": 3.1902907238856417,
+        "transition": -0.18142324892678696,
+        "permuted": 2.8923716757846187,
+        "region": 0.161086394180724,
+        "supervised": 0.041565130586526076
+      },
+      "supervised": {
+        "boundary": 0.481902563331015,
+        "anchor": 0.7932517447110478,
+        "transition": -0.015959083588687677,
+        "permuted": 0.7530819704092295,
+        "region": 0.041565130586526076,
+        "supervised": 0.01959594525006888
+      }
+    },
+    "coordinate_kind": "all_existing_parameters",
+    "parameter_count": 124
+  },
+  {
+    "case": "1MHBF3G6DCPWHSKG7XCP",
+    "index": 8,
+    "repeat": 0,
+    "gram": {
+      "boundary": {
+        "boundary": 15.945855863106107,
+        "anchor": 27.893967299117143,
+        "transition": -1.9026505523626374,
+        "permuted": 32.11587054912265,
+        "region": 0.9619581887510235,
+        "supervised": 0.27042202037957896
+      },
+      "anchor": {
+        "boundary": 27.893967299117143,
+        "anchor": 58.06759712417245,
+        "transition": -4.807601836564466,
+        "permuted": 65.68392857101962,
+        "region": 1.6319595154324902,
+        "supervised": 0.4241984498178879
+      },
+      "transition": {
+        "boundary": -1.9026505523626374,
+        "anchor": -4.807601836564466,
+        "transition": 1.0958591281185839,
+        "permuted": -4.431200865691986,
+        "region": -0.11444181229538644,
+        "supervised": -0.011035997427692595
+      },
+      "permuted": {
+        "boundary": 32.11587054912265,
+        "anchor": 65.68392857101962,
+        "transition": -4.431200865691986,
+        "permuted": 81.2258023712962,
+        "region": 1.9049612445962938,
+        "supervised": 0.5514598295716128
+      },
+      "region": {
+        "boundary": 0.9619581887510235,
+        "anchor": 1.6319595154324902,
+        "transition": -0.11444181229538644,
+        "permuted": 1.9049612445962938,
+        "region": 0.06028749541472658,
+        "supervised": 0.017602581435314325
+      },
+      "supervised": {
+        "boundary": 0.27042202037957896,
+        "anchor": 0.4241984498178879,
+        "transition": -0.011035997427692595,
+        "permuted": 0.5514598295716128,
+        "region": 0.017602581435314325,
+        "supervised": 0.010579738389095282
+      }
+    },
+    "coordinate_kind": "all_existing_parameters",
+    "parameter_count": 124
+  },
+  {
+    "case": "1MHBF3G6DCPWHSKG7XCP",
+    "index": 9,
+    "repeat": 1,
+    "gram": {
+      "boundary": {
+        "boundary": 16.34578816114004,
+        "anchor": 29.792914673688994,
+        "transition": -2.743622671716562,
+        "permuted": 31.223251217787205,
+        "region": 1.1338106753609174,
+        "supervised": 0.3291428832397795
+      },
+      "anchor": {
+        "boundary": 29.792914673688994,
+        "anchor": 59.89206615835262,
+        "transition": -6.283117481548107,
+        "permuted": 60.33909402203141,
+        "region": 2.051502431994513,
+        "supervised": 0.5268992451831612
+      },
+      "transition": {
+        "boundary": -2.743622671716562,
+        "anchor": -6.283117481548107,
+        "transition": 1.472141992568999,
+        "permuted": -4.885841319340464,
+        "region": -0.2002071432551192,
+        "supervised": -0.0171254354421702
+      },
+      "permuted": {
+        "boundary": 31.223251217787205,
+        "anchor": 60.33909402203141,
+        "transition": -4.885841319340464,
+        "permuted": 66.54309630722837,
+        "region": 2.1550304271231027,
+        "supervised": 0.6316033143359236
+      },
+      "region": {
+        "boundary": 1.1338106753609174,
+        "anchor": 2.051502431994513,
+        "transition": -0.2002071432551192,
+        "permuted": 2.1550304271231027,
+        "region": 0.08683818577786948,
+        "supervised": 0.026408743029892445
+      },
+      "supervised": {
+        "boundary": 0.3291428832397795,
+        "anchor": 0.5268992451831612,
+        "transition": -0.0171254354421702,
+        "permuted": 0.6316033143359236,
+        "region": 0.026408743029892445,
+        "supervised": 0.01602276687386352
+      }
+    },
+    "coordinate_kind": "all_existing_parameters",
+    "parameter_count": 124
+  },
+  {
+    "case": "2XL5HSFSE93RMOJDRGR4",
+    "index": 12,
+    "repeat": 0,
+    "gram": {
+      "boundary": {
+        "boundary": 35.18665367940955,
+        "anchor": 58.23026381935318,
+        "transition": -8.317491298392536,
+        "permuted": 47.233354187294395,
+        "region": 3.6277214346791067,
+        "supervised": 0.9630937541292189
+      },
+      "anchor": {
+        "boundary": 58.23026381935318,
+        "anchor": 104.14481740682407,
+        "transition": -16.306168033409936,
+        "permuted": 85.65757654012674,
+        "region": 5.858757965446335,
+        "supervised": 1.423412232279453
+      },
+      "transition": {
+        "boundary": -8.317491298392536,
+        "anchor": -16.306168033409936,
+        "transition": 5.556018546826424,
+        "permuted": -14.863816861956064,
+        "region": -0.7472832356101562,
+        "supervised": -0.054921425339741536
+      },
+      "permuted": {
+        "boundary": 47.233354187294395,
+        "anchor": 85.65757654012674,
+        "transition": -14.863816861956064,
+        "permuted": 109.6116946863879,
+        "region": 4.548288762778616,
+        "supervised": 1.2846543941850883
+      },
+      "region": {
+        "boundary": 3.6277214346791067,
+        "anchor": 5.858757965446335,
+        "transition": -0.7472832356101562,
+        "permuted": 4.548288762778616,
+        "region": 0.39835529905100536,
+        "supervised": 0.11459014658906203
+      },
+      "supervised": {
+        "boundary": 0.9630937541292189,
+        "anchor": 1.423412232279453,
+        "transition": -0.054921425339741536,
+        "permuted": 1.2846543941850883,
+        "region": 0.11459014658906203,
+        "supervised": 0.051922955671799303
+      }
+    },
+    "coordinate_kind": "all_existing_parameters",
+    "parameter_count": 124
+  },
+  {
+    "case": "2XL5HSFSE93RMOJDRGR4",
+    "index": 13,
+    "repeat": 1,
+    "gram": {
+      "boundary": {
+        "boundary": 34.797872034236434,
+        "anchor": 57.55745977297593,
+        "transition": -5.671191994717039,
+        "permuted": 65.37239586961819,
+        "region": 2.665468987655789,
+        "supervised": 0.8998669073440563
+      },
+      "anchor": {
+        "boundary": 57.55745977297593,
+        "anchor": 102.68456097498881,
+        "transition": -11.714014974503492,
+        "permuted": 114.3097111727203,
+        "region": 4.19572775177617,
+        "supervised": 1.3068683503579224
+      },
+      "transition": {
+        "boundary": -5.671191994717039,
+        "anchor": -11.714014974503492,
+        "transition": 3.2196318121795744,
+        "permuted": -10.166847259224125,
+        "region": -0.35441312467866476,
+        "supervised": -0.0056630502590851
+      },
+      "permuted": {
+        "boundary": 65.37239586961819,
+        "anchor": 114.3097111727203,
+        "transition": -10.166847259224125,
+        "permuted": 139.4314097603413,
+        "region": 4.811222313548882,
+        "supervised": 1.6195467955028808
+      },
+      "region": {
+        "boundary": 2.665468987655789,
+        "anchor": 4.19572775177617,
+        "transition": -0.35441312467866476,
+        "permuted": 4.811222313548882,
+        "region": 0.21761307469160002,
+        "supervised": 0.07794633433483718
+      },
+      "supervised": {
+        "boundary": 0.8998669073440563,
+        "anchor": 1.3068683503579224,
+        "transition": -0.0056630502590851,
+        "permuted": 1.6195467955028808,
+        "region": 0.07794633433483718,
+        "supervised": 0.046343458159632894
+      }
+    },
+    "coordinate_kind": "all_existing_parameters",
+    "parameter_count": 124
+  },
+  {
+    "case": "0RZDK210BSMWAA6467LU",
+    "index": 2,
+    "repeat": 0,
+    "gram": {
+      "boundary": {
+        "boundary": 29.65826117451028,
+        "anchor": 58.034654786644275,
+        "transition": -2.709941927704715,
+        "permuted": 44.82414138749642,
+        "region": 2.4865029609092293,
+        "supervised": 0.6505124835477124
+      },
+      "anchor": {
+        "boundary": 58.034654786644275,
+        "anchor": 120.29376499472116,
+        "transition": -5.601922274796987,
+        "permuted": 87.52316828528359,
+        "region": 4.581346429978714,
+        "supervised": 1.1629113716943267
+      },
+      "transition": {
+        "boundary": -2.709941927704715,
+        "anchor": -5.601922274796987,
+        "transition": 1.0508737732127822,
+        "permuted": -3.3599758575212544,
+        "region": -0.22554988822286043,
+        "supervised": -0.022872735151210667
+      },
+      "permuted": {
+        "boundary": 44.82414138749642,
+        "anchor": 87.52316828528359,
+        "transition": -3.3599758575212544,
+        "permuted": 93.76362377305422,
+        "region": 4.236865462517144,
+        "supervised": 1.163646249674595
+      },
+      "region": {
+        "boundary": 2.4865029609092293,
+        "anchor": 4.581346429978714,
+        "transition": -0.22554988822286043,
+        "permuted": 4.236865462517144,
+        "region": 0.27534609944009586,
+        "supervised": 0.07969061393838213
+      },
+      "supervised": {
+        "boundary": 0.6505124835477124,
+        "anchor": 1.1629113716943267,
+        "transition": -0.022872735151210667,
+        "permuted": 1.163646249674595,
+        "region": 0.07969061393838213,
+        "supervised": 0.030754247860253048
+      }
+    },
+    "coordinate_kind": "all_existing_parameters",
+    "parameter_count": 124
+  },
+  {
+    "case": "0RZDK210BSMWAA6467LU",
+    "index": 3,
+    "repeat": 1,
+    "gram": {
+      "boundary": {
+        "boundary": 43.733162104305336,
+        "anchor": 79.4156432001434,
+        "transition": -2.137245098253561,
+        "permuted": 35.695611152292194,
+        "region": 3.0797149126474075,
+        "supervised": 0.9876411447393886
+      },
+      "anchor": {
+        "boundary": 79.4156432001434,
+        "anchor": 155.3982291111355,
+        "transition": -4.57474711341162,
+        "permuted": 68.21597806782924,
+        "region": 5.530402530067356,
+        "supervised": 1.6627705062758231
+      },
+      "transition": {
+        "boundary": -2.137245098253561,
+        "anchor": -4.57474711341162,
+        "transition": 0.7497109803455394,
+        "permuted": -1.4071816510531496,
+        "region": -0.14532019440213978,
+        "supervised": -0.024317254741837952
+      },
+      "permuted": {
+        "boundary": 35.695611152292194,
+        "anchor": 68.21597806782924,
+        "transition": -1.4071816510531496,
+        "permuted": 62.79539524216648,
+        "region": 2.530414028796943,
+        "supervised": 0.9160309010910219
+      },
+      "region": {
+        "boundary": 3.0797149126474075,
+        "anchor": 5.530402530067356,
+        "transition": -0.14532019440213978,
+        "permuted": 2.530414028796943,
+        "region": 0.2177604851088365,
+        "supervised": 0.07116368465183069
+      },
+      "supervised": {
+        "boundary": 0.9876411447393886,
+        "anchor": 1.6627705062758231,
+        "transition": -0.024317254741837952,
+        "permuted": 0.9160309010910219,
+        "region": 0.07116368465183069,
+        "supervised": 0.040181078323627925
+      }
+    },
+    "coordinate_kind": "all_existing_parameters",
+    "parameter_count": 124
+  },
+  {
+    "case": "1GU15S0GJ6PFNARO469W",
+    "index": 6,
+    "repeat": 0,
+    "gram": {
+      "boundary": {
+        "boundary": 76.03892717793445,
+        "anchor": 143.896132710005,
+        "transition": -1.6280340259776314,
+        "permuted": 62.61105766938221,
+        "region": 3.4186676953876187,
+        "supervised": 0.9717837649470921
+      },
+      "anchor": {
+        "boundary": 143.896132710005,
+        "anchor": 279.78581080093323,
+        "transition": -3.9147909645870937,
+        "permuted": 117.97735755833943,
+        "region": 6.4417769396368865,
+        "supervised": 1.7907293181018675
+      },
+      "transition": {
+        "boundary": -1.6280340259776314,
+        "anchor": -3.9147909645870937,
+        "transition": 0.5495663643018177,
+        "permuted": -1.6236343196064227,
+        "region": -0.07031515781180096,
+        "supervised": -0.009200580834350446
+      },
+      "permuted": {
+        "boundary": 62.61105766938221,
+        "anchor": 117.97735755833943,
+        "transition": -1.6236343196064227,
+        "permuted": 102.53336543875949,
+        "region": 2.9077242243518464,
+        "supervised": 0.8820157606629427
+      },
+      "region": {
+        "boundary": 3.4186676953876187,
+        "anchor": 6.4417769396368865,
+        "transition": -0.07031515781180096,
+        "permuted": 2.9077242243518464,
+        "region": 0.15423585525943387,
+        "supervised": 0.0440777935410423
+      },
+      "supervised": {
+        "boundary": 0.9717837649470921,
+        "anchor": 1.7907293181018675,
+        "transition": -0.009200580834350446,
+        "permuted": 0.8820157606629427,
+        "region": 0.0440777935410423,
+        "supervised": 0.019260276956593474
+      }
+    },
+    "coordinate_kind": "all_existing_parameters",
+    "parameter_count": 124
+  },
+  {
+    "case": "1GU15S0GJ6PFNARO469W",
+    "index": 7,
+    "repeat": 1,
+    "gram": {
+      "boundary": {
+        "boundary": 63.76658736308952,
+        "anchor": 112.24572625670257,
+        "transition": -1.0054930137259026,
+        "permuted": 59.14604795604128,
+        "region": 3.6793065697738867,
+        "supervised": 0.9739667252109367
+      },
+      "anchor": {
+        "boundary": 112.24572625670257,
+        "anchor": 205.4625590836178,
+        "transition": -2.983843672147219,
+        "permuted": 106.23086625574656,
+        "region": 6.365372529459553,
+        "supervised": 1.6506811677019284
+      },
+      "transition": {
+        "boundary": -1.0054930137259026,
+        "anchor": -2.983843672147219,
+        "transition": 0.7849721044538158,
+        "permuted": -2.70536045787106,
+        "region": -0.04411017766809705,
+        "supervised": 0.0019854944467189647
+      },
+      "permuted": {
+        "boundary": 59.14604795604128,
+        "anchor": 106.23086625574656,
+        "transition": -2.70536045787106,
+        "permuted": 106.99293514925891,
+        "region": 3.558423323813102,
+        "supervised": 0.9112394327120765
+      },
+      "region": {
+        "boundary": 3.6793065697738867,
+        "anchor": 6.365372529459553,
+        "transition": -0.04411017766809705,
+        "permuted": 3.558423323813102,
+        "region": 0.21979989213637094,
+        "supervised": 0.05854309034547605
+      },
+      "supervised": {
+        "boundary": 0.9739667252109367,
+        "anchor": 1.6506811677019284,
+        "transition": 0.0019854944467189647,
+        "permuted": 0.9112394327120765,
+        "region": 0.05854309034547605,
+        "supervised": 0.02618798403693278
+      }
+    },
+    "coordinate_kind": "all_existing_parameters",
+    "parameter_count": 124
+  },
+  {
+    "case": "23X6SY44VT9KFHR7S7OC",
+    "index": 10,
+    "repeat": 0,
+    "gram": {
+      "boundary": {
+        "boundary": 28.948251543969196,
+        "anchor": 41.52312602011679,
+        "transition": -3.979041389698885,
+        "permuted": 50.52252500387572,
+        "region": 1.446839842969637,
+        "supervised": 0.5104503335988944
+      },
+      "anchor": {
+        "boundary": 41.52312602011679,
+        "anchor": 71.66066644668501,
+        "transition": -8.94471632555276,
+        "permuted": 83.40132990612636,
+        "region": 1.9754414999214767,
+        "supervised": 0.6618968295945297
+      },
+      "transition": {
+        "boundary": -3.979041389698885,
+        "anchor": -8.94471632555276,
+        "transition": 3.5588885791417892,
+        "permuted": -8.203499535761402,
+        "region": -0.1772705249227784,
+        "supervised": -0.008368950461071029
+      },
+      "permuted": {
+        "boundary": 50.52252500387572,
+        "anchor": 83.40132990612636,
+        "transition": -8.203499535761402,
+        "permuted": 102.4813275643432,
+        "region": 2.4333085116105306,
+        "supervised": 0.8629465626764168
+      },
+      "region": {
+        "boundary": 1.446839842969637,
+        "anchor": 1.9754414999214767,
+        "transition": -0.1772705249227784,
+        "permuted": 2.4333085116105306,
+        "region": 0.07403090816330454,
+        "supervised": 0.026628252202142384
+      },
+      "supervised": {
+        "boundary": 0.5104503335988944,
+        "anchor": 0.6618968295945297,
+        "transition": -0.008368950461071029,
+        "permuted": 0.8629465626764168,
+        "region": 0.026628252202142384,
+        "supervised": 0.015353456373974795
+      }
+    },
+    "coordinate_kind": "all_existing_parameters",
+    "parameter_count": 124
+  },
+  {
+    "case": "23X6SY44VT9KFHR7S7OC",
+    "index": 11,
+    "repeat": 1,
+    "gram": {
+      "boundary": {
+        "boundary": 150.94041815994643,
+        "anchor": 159.98306243229462,
+        "transition": -2.140006464747703,
+        "permuted": 216.72911153381528,
+        "region": 17.070698236574827,
+        "supervised": 3.5000695696458655
+      },
+      "anchor": {
+        "boundary": 159.98306243229462,
+        "anchor": 187.6614898911765,
+        "transition": -7.783853632597936,
+        "permuted": 244.9844401571551,
+        "region": 17.398028677315843,
+        "supervised": 3.5625978111837426
+      },
+      "transition": {
+        "boundary": -2.140006464747703,
+        "anchor": -7.783853632597936,
+        "transition": 3.708292260067278,
+        "permuted": -5.141958803727499,
+        "region": 0.05246718600252772,
+        "supervised": 0.04410384143887902
+      },
+      "permuted": {
+        "boundary": 216.72911153381528,
+        "anchor": 244.9844401571551,
+        "transition": -5.141958803727499,
+        "permuted": 338.20369254730474,
+        "region": 24.22213582501573,
+        "supervised": 4.989326519320417
+      },
+      "region": {
+        "boundary": 17.070698236574827,
+        "anchor": 17.398028677315843,
+        "transition": 0.05246718600252772,
+        "permuted": 24.22213582501573,
+        "region": 1.9982843012335412,
+        "supervised": 0.40664935982797745
+      },
+      "supervised": {
+        "boundary": 3.5000695696458655,
+        "anchor": 3.5625978111837426,
+        "transition": 0.04410384143887902,
+        "permuted": 4.989326519320417,
+        "region": 0.40664935982797745,
+        "supervised": 0.09129768106252882
+      }
+    },
+    "coordinate_kind": "all_existing_parameters",
+    "parameter_count": 124
+  },
+  {
+    "case": "38CWS74285MFGZZXR09Z",
+    "index": 14,
+    "repeat": 0,
+    "gram": {
+      "boundary": {
+        "boundary": 8.973173817921836,
+        "anchor": 17.001744854785443,
+        "transition": -2.4343893839162387,
+        "permuted": 19.31767423876779,
+        "region": 0.5552157811300017,
+        "supervised": 0.20134883902211376
+      },
+      "anchor": {
+        "boundary": 17.001744854785443,
+        "anchor": 42.53292779822317,
+        "transition": -7.298866028119316,
+        "permuted": 38.068668156421126,
+        "region": 1.09021503016105,
+        "supervised": 0.32101725282949434
+      },
+      "transition": {
+        "boundary": -2.4343893839162387,
+        "anchor": -7.298866028119316,
+        "transition": 2.866994754360876,
+        "permuted": -4.780244126568464,
+        "region": -0.15187725136270375,
+        "supervised": -0.005298648294859739
+      },
+      "permuted": {
+        "boundary": 19.31767423876779,
+        "anchor": 38.068668156421126,
+        "transition": -4.780244126568464,
+        "permuted": 49.811672498093635,
+        "region": 1.167018933088053,
+        "supervised": 0.3914469628008726
+      },
+      "region": {
+        "boundary": 0.5552157811300017,
+        "anchor": 1.09021503016105,
+        "transition": -0.15187725136270375,
+        "permuted": 1.167018933088053,
+        "region": 0.034877037239904235,
+        "supervised": 0.012903292961742368
+      },
+      "supervised": {
+        "boundary": 0.20134883902211376,
+        "anchor": 0.32101725282949434,
+        "transition": -0.005298648294859739,
+        "permuted": 0.3914469628008726,
+        "region": 0.012903292961742368,
+        "supervised": 0.011180346540625156
+      }
+    },
+    "coordinate_kind": "all_existing_parameters",
+    "parameter_count": 124
+  },
+  {
+    "case": "38CWS74285MFGZZXR09Z",
+    "index": 15,
+    "repeat": 1,
+    "gram": {
+      "boundary": {
+        "boundary": 7.512008210623789,
+        "anchor": 16.83973778995688,
+        "transition": -2.998869933025733,
+        "permuted": 10.462943610697085,
+        "region": 0.6017501179110084,
+        "supervised": 0.2022590615027716
+      },
+      "anchor": {
+        "boundary": 16.83973778995688,
+        "anchor": 41.69013597612676,
+        "transition": -8.514123092360744,
+        "permuted": 29.88968245359605,
+        "region": 1.3055702741143014,
+        "supervised": 0.3990384569460861
+      },
+      "transition": {
+        "boundary": -2.998869933025733,
+        "anchor": -8.514123092360744,
+        "transition": 3.9645113471946622,
+        "permuted": -6.0596965862999,
+        "region": -0.21603426175548035,
+        "supervised": -0.006821742666772742
+      },
+      "permuted": {
+        "boundary": 10.462943610697085,
+        "anchor": 29.88968245359605,
+        "transition": -6.0596965862999,
+        "permuted": 38.1362284956615,
+        "region": 0.6986168303856146,
+        "supervised": 0.21553704990128447
+      },
+      "region": {
+        "boundary": 0.6017501179110084,
+        "anchor": 1.3055702741143014,
+        "transition": -0.21603426175548035,
+        "permuted": 0.6986168303856146,
+        "region": 0.04954735277742544,
+        "supervised": 0.01734082163721684
+      },
+      "supervised": {
+        "boundary": 0.2022590615027716,
+        "anchor": 0.3990384569460861,
+        "transition": -0.006821742666772742,
+        "permuted": 0.21553704990128447,
+        "region": 0.01734082163721684,
+        "supervised": 0.016549049883869193
+      }
+    },
+    "coordinate_kind": "all_existing_parameters",
+    "parameter_count": 124
+  }
+]

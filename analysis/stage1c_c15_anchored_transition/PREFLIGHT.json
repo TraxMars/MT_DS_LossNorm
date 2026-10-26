@@ -1,0 +1,72 @@
+{
+  "status": "PASS",
+  "local_head": "d7b50ccb5b458a9d5a72e65fa0b21c0cd6cbcf56",
+  "remote_head": "493fa83eca062aa13eee9c4c2dafca56cd27fea8",
+  "remote_shared_files_identical": 438,
+  "local_only_files": 41,
+  "C1_manifest_files": 732,
+  "historical_files": 1931,
+  "sources": {
+    "train.py": {
+      "current_sha256": "5da28e7732cb3e43efbd31dd4828958ec3fcfb660f70aeea111fcbd82e1cc6c7",
+      "baseline_sha256": "5da28e7732cb3e43efbd31dd4828958ec3fcfb660f70aeea111fcbd82e1cc6c7"
+    },
+    "objectives.py": {
+      "current_sha256": "c2768ba6753d880b83be19a858a3df3f91d60ce96801d10a4df0f79301366384",
+      "baseline_sha256": "c2768ba6753d880b83be19a858a3df3f91d60ce96801d10a4df0f79301366384"
+    },
+    "data.py": {
+      "current_sha256": "2d2dffc6b84c8e3f704348d7afec8f0bd82690ccb8ff990dbb924f7a1ee1377d",
+      "baseline_sha256": "2d2dffc6b84c8e3f704348d7afec8f0bd82690ccb8ff990dbb924f7a1ee1377d"
+    },
+    "evaluate.py": {
+      "current_sha256": "a2904f0981165b0bd7640c3202d897e7feaa8f9a37df3efe103c3bd6d2327421",
+      "baseline_sha256": "a2904f0981165b0bd7640c3202d897e7feaa8f9a37df3efe103c3bd6d2327421"
+    },
+    "networks/vnet_ds.py": {
+      "current_sha256": "d70304cdabd31a40265331e2075a32d551aea6e33b61ed6794b953d3752e308d",
+      "baseline_sha256": "57f29fc308d484c09cd2f080c5e283aea7a59e99eb4b0bf5612a25bd0e1e41b2"
+    }
+  },
+  "config": {
+    "dataset": "LA",
+    "data_root": "/aita_data/home/aita_duanxuelong/Dataset",
+    "output_dir": "/aita_data/home/aita_duanxuelong/MT_DS_LossNorm/Results/seed_42/LA_8l",
+    "labelnum": 8,
+    "seed": 42,
+    "gpu": "4",
+    "device": "cuda",
+    "batch_size": 4,
+    "labeled_bs": 2,
+    "max_iterations": 15000,
+    "warmup_iterations": 2000,
+    "base_lr": 0.01,
+    "ema_decay": 0.99,
+    "consistency": 0.3,
+    "normalization_eps": 1e-08,
+    "num_workers": 2,
+    "cpu_threads": 4,
+    "log_interval": 10,
+    "val_interval": 200,
+    "val_start": 800,
+    "checkpoint_interval": 1000,
+    "resume": null,
+    "patch_size": [
+      112,
+      112,
+      80
+    ],
+    "experiment": "MT_DS_LossNorm",
+    "consistency_loss": "four_scale_softmax_mse",
+    "supervision": "four_scale_mean_ce_dice",
+    "lr_schedule": "constant",
+    "teacher_bn": "independent_train_mode_running_stats_parameter_only_ema",
+    "perturbation": "independent_dropout3d_p0.5",
+    "normalization": "per_objective",
+    "dataset_root": "/aita_data/home/aita_duanxuelong/Dataset/LA",
+    "train_cases": 80,
+    "validation_split": "test",
+    "device_name": "NVIDIA A100-SXM4-40GB"
+  },
+  "scope": "C1.5 L-only; D0/D1-A excluded by user clarification"
+}

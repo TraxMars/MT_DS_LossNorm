@@ -1,0 +1,5 @@
+{
+  "status": "FAIL",
+  "phase": "smoke",
+  "traceback": "Traceback (most recent call last):\n  File \"/aita_data/home/aita_duanxuelong/MT_DS_LossNorm_Boundary/analysis/stage1c_c15_anchored_transition/run_c15.py\", line 356, in <module>\n    try:print(json.dumps(run(args,out),indent=2))\n  File \"/aita_data/home/aita_duanxuelong/MT_DS_LossNorm_Boundary/analysis/stage1c_c15_anchored_transition/run_c15.py\", line 310, in run\n    compatibility(data,ctx,obs,tables,full_feature=args.phase=='smoke')\n  File \"/aita_data/home/aita_duanxuelong/MT_DS_LossNorm_Boundary/analysis/stage1c_c15_anchored_transition/run_c15.py\", line 133, in compatibility\n    assert error<=1e-9 or relative<=1e-4\nAssertionError\n"
+}

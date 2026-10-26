@@ -1,0 +1,25 @@
+{
+  "phase": "smoke",
+  "sources": {
+    "targets_c15.py": "a9e0c6aaa8461ff27070b20f8dee09b65c8bd975bd23d1036ff07fe752200fe3",
+    "algebra_c15.py": "784530f953ae9d1549fe751a7c57f6806df5d93e3ffcbf34f1429a362921e906",
+    "summarize_c15.py": "315d4452e23c16281c0f95dd97a92fa1956c71da854f6b15c571448a69663a80",
+    "run_c15.py": "c552c1ef6ceca5f90521ce43922b3e1dcd30b2462ed1d8653e6e702a3b624423",
+    "test_all_c15.py": "fb05520abd7d70a80fe381889e32a981d0ab6deee9adf01ad9ef04debb3e688c",
+    "c15_common.py": "b1a10ef195f82ec423dd47e1b7650253f7a23ad7d2836ce1562b9f88611f0657"
+  },
+  "design_sha256": "515f6406497393389d268c1cb135f1a8e96390807ace6e71f153ca1695021dc3",
+  "plan_sha256": null,
+  "cases": [
+    "06SR5RBREL16DQ6M8LWS",
+    "1D7CUD1955YZPGK8XHJX"
+  ],
+  "device": "cuda:0",
+  "gpu": "NVIDIA A100-SXM4-40GB",
+  "torch": "2.9.1+cu126",
+  "network_precision": "FP32",
+  "diagnostic_precision": "FP64",
+  "mode": "eval",
+  "checkpoint_sha256": "85489c52c0905aebde65eacf5cea215aac51ee825ed3e5a845da86fe7f23e168",
+  "C1_plan_sha256": "05f68c2826715d6a0e3b973c7ce4ef411dcb07f60512bba63282879c15da9c8b"
+}

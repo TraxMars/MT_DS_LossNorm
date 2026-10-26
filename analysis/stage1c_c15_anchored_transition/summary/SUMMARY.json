@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "cases": 8,
+  "crops": 16,
+  "physical_interventions": 384,
+  "valid_interventions": 384,
+  "lambda_r10": 0.4329492463977064,
+  "lambda_r30": 1.298847739193119,
+  "outer_beta": 0.0005378503292935424,
+  "wrong_given_satisfied": 0.5682736908413321,
+  "pair_geometry_table": "pair_geometry_and_marginals.csv",
+  "inference": "exploratory 4-case probe, no independent generalization claim"
+}

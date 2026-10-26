@@ -1,0 +1,1350 @@
+{
+  "status": "RECORDED",
+  "base_commit": "d7b50ccb5b458a9d5a72e65fa0b21c0cd6cbcf56",
+  "files": {
+    "analysis/stage1c_c15_anchored_transition/C15_DESIGN.md": {
+      "size": 8533,
+      "sha256": "7a432c8896110d3f2adf03b93e2086c08fa5748cb2824df57bb721772ecd6370"
+    },
+    "analysis/stage1c_c15_anchored_transition/C15_FINDINGS.md": {
+      "size": 3014,
+      "sha256": "f9d48daeb11bfa09404cf68ac0b1d6b34326a8c076b732b5e4ec0c420b2aef77"
+    },
+    "analysis/stage1c_c15_anchored_transition/C15_REPORT.md": {
+      "size": 12552,
+      "sha256": "5f81791041a9e4af7794071e0d791627c6ecb4f7e51163fda5ed93949ce25ba3"
+    },
+    "analysis/stage1c_c15_anchored_transition/C15_SMOKE_REPORT.md": {
+      "size": 1958,
+      "sha256": "fd257b64233e3818db9ebb129788e4f0aff42e541ed07e5fd96fafd816632729"
+    },
+    "analysis/stage1c_c15_anchored_transition/C15_VERIFICATION.md": {
+      "size": 4351,
+      "sha256": "5491a320511a62f99a2bf02abfe5ba04cc56674ab05147c0c5b94b275c54dc3e"
+    },
+    "analysis/stage1c_c15_anchored_transition/EXECUTION_NOTES.md": {
+      "size": 2183,
+      "sha256": "4147aa12ab116ebd72d5ba130e3bd3c8846c95b8b3af78aa4cb3321cf70a02a1"
+    },
+    "analysis/stage1c_c15_anchored_transition/PREFLIGHT.json": {
+      "size": 2600,
+      "sha256": "850d060a4dab99aac279518b55f7466b2a9b5f947e97d8a65dc01dd1f41c153e"
+    },
+    "analysis/stage1c_c15_anchored_transition/PROTECTION_AFTER.json": {
+      "size": 65,
+      "sha256": "9d18ffaa0f1337edde64dc4c103172c715f12d2d4664e77e37e5675e0535fb67"
+    },
+    "analysis/stage1c_c15_anchored_transition/PROTECTION_BEFORE.json": {
+      "size": 484288,
+      "sha256": "016b1123063982a9a462855c464c19f78c8541937890612008fed2a6015e905e"
+    },
+    "analysis/stage1c_c15_anchored_transition/REDUCTION_EQUIVALENCE.json": {
+      "size": 62242,
+      "sha256": "4e296d482634b6950a16bc6da8d4210300d947e4e1fa02b9a6967a071727721f"
+    },
+    "analysis/stage1c_c15_anchored_transition/REMOTE_AUDIT.json": {
+      "size": 3843,
+      "sha256": "633c5e78a0f024ec9f9c57cc0dd849a03c30a1831c42006d3a40b66073b96f14"
+    },
+    "analysis/stage1c_c15_anchored_transition/REMOTE_RECHECK.json": {
+      "size": 304,
+      "sha256": "494a615633aa644ecfc38029ddf6aa16451ec64ba04e5ded8ad4aa518f0f3f1f"
+    },
+    "analysis/stage1c_c15_anchored_transition/REMOTE_TREE.json": {
+      "size": 133112,
+      "sha256": "a7fa79882fcc9383f524f0cb18b03d5cc7f6f69412edf362fd977b4f7f48a4bf"
+    },
+    "analysis/stage1c_c15_anchored_transition/TEST_RESULTS.json": {
+      "size": 11917,
+      "sha256": "9947750b7c5584b5ed07cf8b738365cf645238dfe7022eb7d300d0335b26c178"
+    },
+    "analysis/stage1c_c15_anchored_transition/VERIFICATION_RESULTS.json": {
+      "size": 1430,
+      "sha256": "e26dbea4d9f0e812394742a647b7287216a46ef82a08b6cac3cbdc452922617c"
+    },
+    "analysis/stage1c_c15_anchored_transition/algebra_c15.py": {
+      "size": 2564,
+      "sha256": "784530f953ae9d1549fe751a7c57f6806df5d93e3ffcbf34f1429a362921e906"
+    },
+    "analysis/stage1c_c15_anchored_transition/c15_common.py": {
+      "size": 3022,
+      "sha256": "b1a10ef195f82ec423dd47e1b7650253f7a23ad7d2836ce1562b9f88611f0657"
+    },
+    "analysis/stage1c_c15_anchored_transition/check_reductions_c15.py": {
+      "size": 2585,
+      "sha256": "ac310e08c0e7afb85011b37b685acaf380923d7a464e1c954be2a9d7c6ecbd23"
+    },
+    "analysis/stage1c_c15_anchored_transition/reductions_c15.py": {
+      "size": 1014,
+      "sha256": "c07b1bc3eafdb247783a83b928efe78e2d2a3cf9ce58d210c13b436c5fc2c02f"
+    },
+    "analysis/stage1c_c15_anchored_transition/run_c15.py": {
+      "size": 29298,
+      "sha256": "f864256c86b5273204c53ec0732605fd2ae9a218ef4f05314c0a16be339ac30a"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/calibration/FROZEN_PLAN.json": {
+      "size": 6120,
+      "sha256": "27a395986bfc732a06ff9def1a3ae19edffc9efa7d2530f96f2726e998f3b5b3"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/calibration/FROZEN_PLAN_SHA256.json": {
+      "size": 83,
+      "sha256": "0bc1e230a97afefe07d95d2349ee380404c45b0474ea742efba6f09d05f1e3ab"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/calibration/channel_relations.csv": {
+      "size": 2282667,
+      "sha256": "a2e54cd0364dcfb7059f65c5b089d01f12300f00be49dabefd10ae374fb0e9e0"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/calibration/compatibility.json": {
+      "size": 44267,
+      "sha256": "5595c1e6a1d7da79a89da8b6ab9c8dedd4431b13a10b5578e12d38f17c9af3de"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/calibration/contributions.csv": {
+      "size": 1845330,
+      "sha256": "c0cb92fafda649e6ea7ac019057cac23c021ea26feb3218cb9913101d1ce0e7d"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/calibration/execution_results.json": {
+      "size": 729,
+      "sha256": "a9e5b3f4acb1bebe213eb7f18cd13ba5a0dd38586fed928de4eee27e24e03ee0"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/calibration/hdf5_access_log.json": {
+      "size": 1627,
+      "sha256": "0cf39e9b1c9408400f270d37f0f85bfa926f51cd44ca818f189cd69c98365d6c"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/calibration/historical_MT_reference.csv": {
+      "size": 4783,
+      "sha256": "5a873d5c0417dc26bf937640429d56a140fde6bf79153bbb4d172004923c7c98"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/calibration/losses.csv": {
+      "size": 2612,
+      "sha256": "d41eb251d57f4315dfb937f56505a248f01cdd72dc24cf565586bb4cf442d45d"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/calibration/node_identity.json": {
+      "size": 11565,
+      "sha256": "0b2febf4755fa212ac59654fb533203c168aceb1b611921d35e144140620ceb2"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/calibration/parameter_mapping.json": {
+      "size": 2193,
+      "sha256": "8ce734febd4369d1c8f57e5598424e03cd20fa05d09dd326a209acbcbe73fcfc"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/calibration/parameter_norms.csv": {
+      "size": 564542,
+      "sha256": "4679871107ef887e1c92d8ed850e69d857e8715af21533bf89de5d6129bbd681"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/calibration/source_at_run.json": {
+      "size": 1450,
+      "sha256": "899ac568be4d0e2121c7542f89a716a7f10b238658054d78ac92ab8a33b6c043"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/calibration/theta_grams.json": {
+      "size": 14300,
+      "sha256": "25a9d1f77a191d902d74c5e13d324ec441d3b01f1c18627898a220c6a5136b6f"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/attribution.csv": {
+      "size": 708307,
+      "sha256": "935dc90ee4480a27c5ec03309164c20d4415dfa5d45ecefe1f2bac751b16b227"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/channel_relations.csv": {
+      "size": 4570524,
+      "sha256": "73ae9b286cce2675e8954a40e4fa730ec04b0a5efb1c2397928eb74c1a806de0"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/compatibility.json": {
+      "size": 88576,
+      "sha256": "291820824208dcb53efbecae9714ffab131e9354265577cea2bca7fd28cabe5d"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/conflicts.csv": {
+      "size": 245400,
+      "sha256": "c6b5779b7133b1fd4f6c6cf888b1ae1a12d3863952979dbfe7e38a397a87ad84"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/contributions.csv": {
+      "size": 3692457,
+      "sha256": "d37647aba2e1c9acbba63b1f2921361a41090e26483134c250cff904dae13ea2"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/endpoint_groups.json": {
+      "size": 658336,
+      "sha256": "248da104fa19e9f225cad8100c7112272ced9ca81931dfc9a75955c49300d217"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/execution_results.json": {
+      "size": 726,
+      "sha256": "d51a80f5c43701b290539c2ec4585dc9cac324d9f8feb14cd3192630811af949"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/hdf5_access_log.json": {
+      "size": 3251,
+      "sha256": "523a2be87b0d10eac0d3c7ae99ab02deab94bdf2421d0ba8be9344c351d32081"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/historical_MT_reference.csv": {
+      "size": 4783,
+      "sha256": "5a873d5c0417dc26bf937640429d56a140fde6bf79153bbb4d172004923c7c98"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/interventions.csv": {
+      "size": 147574,
+      "sha256": "2e51b10ec2ade03b20680589feeb7891612b0274963c3331fabce52957281a3c"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/joint_contributions.csv": {
+      "size": 1761233,
+      "sha256": "6a60296e5066e4b62e0fdf9c91618117b22b1aeac42642cce013b971fa1af3b6"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/losses.csv": {
+      "size": 5204,
+      "sha256": "b455d9e82b9e15dc114e8b18b9267f64cd64f4512846fe7adc588fa044c4abfa"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/lossnorm.csv": {
+      "size": 239879,
+      "sha256": "f5deb78996eedaae5ae646c197d54caee5dc856ef960bac46e9a9feb31dd7925"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/node_identity.json": {
+      "size": 23137,
+      "sha256": "05f6de0a1ac0d05009e1aaf9bfb44ca399c99473b9196922771298ff5f07c5a6"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/noise.json": {
+      "size": 40019,
+      "sha256": "d963385a7605dd91ed3716ad14d549b6d21b95711fe908ec9277c1600bf6b8aa"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/parameter_mapping.json": {
+      "size": 2193,
+      "sha256": "8ce734febd4369d1c8f57e5598424e03cd20fa05d09dd326a209acbcbe73fcfc"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/parameter_norms.csv": {
+      "size": 1130344,
+      "sha256": "43eab1b4a419684c06e1ce6e139a77cebfcfb6d40d8914e7e733edf34024c688"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/L_0_logits.npz": {
+      "size": 38284270,
+      "sha256": "15edd4c80097110f1b4a3224f6ad494e2acbc18742139f1961ccf1499b6a217f"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/L_10_logits.npz": {
+      "size": 38284270,
+      "sha256": "ee4f55c58d44b0c0c5a32012074ef86503fa6d92fca1fb90a05b19edeffc33af"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/L_11_logits.npz": {
+      "size": 38284270,
+      "sha256": "a03de8bfea954ebdbad832f417d32aaf0b36365a43f513a36df5d29708d0f283"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/L_12_logits.npz": {
+      "size": 38284270,
+      "sha256": "79036d930555bf85ce7698aed4ba8cb14ce2ba0330c6c0a3bc225320839b0857"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/L_13_logits.npz": {
+      "size": 38284270,
+      "sha256": "516da1bb587b1daaa37da1b9b02312780effe64a6a356b553ed7172a249e9e53"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/L_14_logits.npz": {
+      "size": 38284270,
+      "sha256": "a568b058949c47eb58f66db4beee29fb9b7d9092a6110ec4d8ce0c0deba1ac2a"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/L_15_logits.npz": {
+      "size": 38284270,
+      "sha256": "6af321f39a642894e86aa0750af3538a5308596063f5fac86dfcb426a201708c"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/L_1_logits.npz": {
+      "size": 38284270,
+      "sha256": "847b2aaafd7a244bdb73ba22f7a39f6dede2525c4fea8831d55bd73fd03099cf"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/L_2_logits.npz": {
+      "size": 38284270,
+      "sha256": "45d7d0831172582692fbddb6a446f52da99edef76297fed5bbe374893fc05f2a"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/L_3_logits.npz": {
+      "size": 38284270,
+      "sha256": "2a1b2219c0d6274e8b563812290c5f8b825d277541515fea39b947829b5e7fa7"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/L_4_logits.npz": {
+      "size": 38284270,
+      "sha256": "2fabfc0796cfbf8bbc1bf76fe1f534d8a3f4400b1ea4156b4be3b2806dada6ee"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/L_5_logits.npz": {
+      "size": 38284270,
+      "sha256": "c84fc3320020f3f38a0fe95459c15cf0a535678278a696f94f8d66d00b105686"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/L_6_logits.npz": {
+      "size": 38284270,
+      "sha256": "517200372d2569c279ddbc17e21033a842383891c8b87a9bc52f79ef11486296"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/L_7_logits.npz": {
+      "size": 38284270,
+      "sha256": "357b50d47eaf7efe797bbb66ad4d5d8693ed4764c56b68f0f426d4a9b3ce344a"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/L_8_logits.npz": {
+      "size": 38284270,
+      "sha256": "b200d3e6d568f5c14d33cb353d3417dd72a9109f719224205e0b31175b9b5d98"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/L_9_logits.npz": {
+      "size": 38284270,
+      "sha256": "fff6a65616584daae03fd109e17b21c1a266419a6c014f4a9f544720113922ec"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_0_D1.npz": {
+      "size": 389367510,
+      "sha256": "33d93ebbf7b73ff630f91752d914714bdf869b7b775e84df34cb2f0a864c2b5d"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_0_D2.npz": {
+      "size": 96841430,
+      "sha256": "1a010065d3237353f64a4e4c0ce4495e75dcc864649a743bf2919cf9657d7c20"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_0_D3.npz": {
+      "size": 24148950,
+      "sha256": "fe85791fe13ffcf02661695f7a9945454790cb9e8e36b93469bb4449ab87dc05"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_0_E3.npz": {
+      "size": 24148950,
+      "sha256": "903ee59a0c24c3a1c40b32fa934fd2ab6c0c34e07d2bda88987dfcdacec2e4c8"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_0_E4.npz": {
+      "size": 6030710,
+      "sha256": "27e32a6ad4eab423add95d8cdaaebf6e62a378f4dee674ab1ea6f1a7895ca4e6"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_10_D1.npz": {
+      "size": 389367510,
+      "sha256": "145107a5d4f39b632167e5518ed17fc731ba2163b37584cfb254e351bd5614b2"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_10_D2.npz": {
+      "size": 96841430,
+      "sha256": "1c0db12eb4e17b0096c9e4979a3c608f06869a3d2d94c0c246a8cb2a187b2067"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_10_D3.npz": {
+      "size": 24148950,
+      "sha256": "bf300236679cf704a436cce658dd1205645964a0a322a6708ee231b8052b1f40"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_10_E3.npz": {
+      "size": 24148950,
+      "sha256": "a0750056d9dc6f282f1fb7da5deab333b4b9e8bbf140d4f0273a942133f5cf97"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_10_E4.npz": {
+      "size": 6030710,
+      "sha256": "6b3179ac5eb3898b7c80fbdac387d7dc87ff35fd28928712f2490ca6bc7083a3"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_11_D1.npz": {
+      "size": 389367510,
+      "sha256": "4dd9aaad5d2006a9c26dd6857d0d4f24f7cc1eaa3cd4ff843f2e2c0a577bc371"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_11_D2.npz": {
+      "size": 96841430,
+      "sha256": "45328de1c70d28869dd60679a047c85baee817f20f18d05ddd0f71c8e7d9ac32"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_11_D3.npz": {
+      "size": 24148950,
+      "sha256": "0ce345d79dd85730e3b0701c79e482809b03586d02c5e976bcf30b2a56d47a9c"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_11_E3.npz": {
+      "size": 24148950,
+      "sha256": "21cbc8b74278e3c9bef1dfce5c1305db4bc17128facdec974e39e05ebac180f5"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_11_E4.npz": {
+      "size": 6030710,
+      "sha256": "5220c03cbbb4a53191196554a97d5bb60914dd39b3ee991819e5be9327ae34a4"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_12_D1.npz": {
+      "size": 389367510,
+      "sha256": "9ad4c449238a281d715d1cce56af6ecd34783df9e156f2735f65e41825e0a22b"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_12_D2.npz": {
+      "size": 96841430,
+      "sha256": "3c482a24128e2c84d2c8a314678f3329d61b636cc9e2564b131d9ee1a06fb73c"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_12_D3.npz": {
+      "size": 24148950,
+      "sha256": "f6c3462e2513a9dc2c0a5c06f5c36401d43abe6f18250a6eb668f9b1c9e2438f"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_12_E3.npz": {
+      "size": 24148950,
+      "sha256": "08e417770c08e63d00d5a260acfc54b1bfee4b77c10eb58b1b04075f8ec6aec7"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_12_E4.npz": {
+      "size": 6030710,
+      "sha256": "b28fe0a4a4dc56c6f3f69054f4332653d4af9f365bb5f466d7de3d410ca2b867"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_13_D1.npz": {
+      "size": 389367510,
+      "sha256": "0e617a3723e1ededd44bd02b10c7d69550e0a0400258d5fc2e2938fa6e9ffb57"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_13_D2.npz": {
+      "size": 96841430,
+      "sha256": "90e6af3e89c81f9803419606d0d1f3899f02d54c42ae0749d257a38c3879ebc7"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_13_D3.npz": {
+      "size": 24148950,
+      "sha256": "82fc15fc4542c6a62cabc665cedeef95babee68a75b4d143de71cf44809444b1"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_13_E3.npz": {
+      "size": 24148950,
+      "sha256": "52bf981a290adf178a2e139f2aa45655494a3842fc26eb6c09e7204edd9a4459"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_13_E4.npz": {
+      "size": 6030710,
+      "sha256": "22bdfb93b0e0e20d89bcc4b483ecef2281970df45c3bbf343b177e043b2e76b9"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_14_D1.npz": {
+      "size": 389367510,
+      "sha256": "f10d6efb7b3f16f6e39c8be4adc523a9f254eb4186f9be9f5b85c20ccdb32259"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_14_D2.npz": {
+      "size": 96841430,
+      "sha256": "6eefe49036d0635a2c24d9c34a28712d50b1a31ad44d342a30fbec7586e460c1"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_14_D3.npz": {
+      "size": 24148950,
+      "sha256": "b28c8690a1956d7369b6ea6ed04ff6fc253ac11e1eb77a9a8687dcf45927cfd7"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_14_E3.npz": {
+      "size": 24148950,
+      "sha256": "6d09944b92b6d090cd03aa749f99d0b00f01583266c99697eb38358617298036"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_14_E4.npz": {
+      "size": 6030710,
+      "sha256": "d46a268a6059a02a5c0a4e90cfb8d9eb72405525ac8f0e1c288b3000cd5899c0"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_15_D1.npz": {
+      "size": 389367510,
+      "sha256": "51b7b5ff88f57fe3b167f569702d5246e8a16082fcdee18dbe98d2339faa0b67"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_15_D2.npz": {
+      "size": 96841430,
+      "sha256": "ca54a2510c3d818ece7d2e975d1f0295b8f4004295f71c23c595baf25bd05397"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_15_D3.npz": {
+      "size": 24148950,
+      "sha256": "edc6e911d6cf738968b7269df789c754c6423d434db83528cdadd863cbd38113"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_15_E3.npz": {
+      "size": 24148950,
+      "sha256": "e90465304cfb9c4e5c9b0060530720ca7b818dec57ac7fcc2cfd30bea595083a"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_15_E4.npz": {
+      "size": 6030710,
+      "sha256": "0082b7e8546171a7b12b03509960bca98e3d752940ec0a4761027551781734f8"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_1_D1.npz": {
+      "size": 389367510,
+      "sha256": "0b606ea441a0a80c341f5ce5ec4d902ce46178fe8496031fbf88fe882e9c5096"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_1_D2.npz": {
+      "size": 96841430,
+      "sha256": "8742105e133f6a36cd6239e4fd8c45670015752ac8ea2f3ab6062c41fc2a62cf"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_1_D3.npz": {
+      "size": 24148950,
+      "sha256": "b35404e3f0558a98acf1a0b52d5b165ce440bd6b9e55a9f1d46dc28e1d428b37"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_1_E3.npz": {
+      "size": 24148950,
+      "sha256": "b51b24fb0ea688fc302c9a186ea8fa0fa184f200b37ffffce954af30ce9b028b"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_1_E4.npz": {
+      "size": 6030710,
+      "sha256": "640d969ed7f426a14fb8c2fa9dcdf06fec8ced558cd48953b906318966d330db"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_2_D1.npz": {
+      "size": 389367510,
+      "sha256": "cb5ab1ca167667191d1e4e4adb2c9098c624fa67adbdcaf7c3baba92c6b2f5f9"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_2_D2.npz": {
+      "size": 96841430,
+      "sha256": "e5800699956b077530ae6d8f83f491545c3765ed6c2acd4373f9b64fa909e2e8"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_2_D3.npz": {
+      "size": 24148950,
+      "sha256": "3e0c8300838460f10f1bb4d716e9b484b5318ddaefa2e59fa7204695db6b8820"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_2_E3.npz": {
+      "size": 24148950,
+      "sha256": "af72e12e70888fd0a4d49fcc6e55acf50b10a0b9ac88547df69ba5a438468513"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_2_E4.npz": {
+      "size": 6030710,
+      "sha256": "c3dc12f4d6d558220149f99e7289fe9031a58c532d7bfd7fbe50759dbf6f1a90"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_3_D1.npz": {
+      "size": 389367510,
+      "sha256": "c2e42777d60786291972a8072c5db24e0bc9ec485db2a813c4585c37fb069baa"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_3_D2.npz": {
+      "size": 96841430,
+      "sha256": "a50f10c85bd48921e174c665e71588d92bce0892910d490ea410f21df8445258"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_3_D3.npz": {
+      "size": 24148950,
+      "sha256": "7500385dddcb094de0b1ca4d87c675cedb76b823df1d6f6051fef125157bb92c"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_3_E3.npz": {
+      "size": 24148950,
+      "sha256": "2ee0bce9cedcd17c905f3c1929d9cc6e9d2674eebe809ee13b38441a5ef11d79"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_3_E4.npz": {
+      "size": 6030710,
+      "sha256": "6fb08b2909e79e42748af6e5da2878573caf52723f05417f3670c20909883157"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_4_D1.npz": {
+      "size": 389367510,
+      "sha256": "a869686d6e241a3b54cf4baef735318ac0f70e346c8c5a5944b0c9bd9995c847"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_4_D2.npz": {
+      "size": 96841430,
+      "sha256": "84b4161450fcdac084b3c50c670ee78f4d4460008f76b2d6b8f89e39ca2917dc"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_4_D3.npz": {
+      "size": 24148950,
+      "sha256": "7d58fafbac5dffdb66ae40dd0dc78f8758edbd144e22cdbd06b0d7f2c9b79463"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_4_E3.npz": {
+      "size": 24148950,
+      "sha256": "7a6e56e823fb593cc7d99eee01014d830d0b0d1e5de6f11488d395867dc92aa8"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_4_E4.npz": {
+      "size": 6030710,
+      "sha256": "433228434b5c9dba0e7f30cb7924deeb6f245dcbde9c7ffa8687ca6f140a20ed"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_5_D1.npz": {
+      "size": 389367510,
+      "sha256": "9988114b2b6b734bc132de69d7f80420ae5cab0915afd6beb41e13683944bdb3"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_5_D2.npz": {
+      "size": 96841430,
+      "sha256": "fe23309bebc7814279c86d0e8942b8c847bed2d4d85fb05ce02770be4b341bbb"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_5_D3.npz": {
+      "size": 24148950,
+      "sha256": "ae7c213f74a4f3cff2c14edae48569857f8f7e92af8e993afc86c90532b3e6e8"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_5_E3.npz": {
+      "size": 24148950,
+      "sha256": "148a01db89a3f0190a20bcae88d721442209554f453ed81186b52ee145ba5448"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_5_E4.npz": {
+      "size": 6030710,
+      "sha256": "6adf98fabb35ad11ae653871b2a24175a3d38a5e461607681b371ee433f07e80"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_6_D1.npz": {
+      "size": 389367510,
+      "sha256": "8aaec3b94ec4026f17c8eeaef9288f3c715904042ca53bd8d125dd9a20b4c6cf"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_6_D2.npz": {
+      "size": 96841430,
+      "sha256": "42fcb210c74eb3a5484c36ebdcf77cb10ac85486195ee5f75a4cb4d0633ff212"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_6_D3.npz": {
+      "size": 24148950,
+      "sha256": "9dac7e50807b631d02f49265f3a92ca8392b1735d4265766311ed83cea48d952"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_6_E3.npz": {
+      "size": 24148950,
+      "sha256": "95af027166367f0925e83d3b41c692d69d27974f1769216e17a372d3c2589d45"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_6_E4.npz": {
+      "size": 6030710,
+      "sha256": "8eefbee782c96d62fa9e001ad11e8c22a55ac2f9475bc1f762de6d299fe6e3d1"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_7_D1.npz": {
+      "size": 389367510,
+      "sha256": "a2cbc477ece89054c44cd14b6b64d264f97196ccc4f3e94f77a6b9bd626e0144"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_7_D2.npz": {
+      "size": 96841430,
+      "sha256": "5f88102bf4d59a0986eb7e2c8c55ece7734a2aa94f34ff3f2d120dd4352bd998"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_7_D3.npz": {
+      "size": 24148950,
+      "sha256": "b727442bf34c9bedad468fef0fa51dfdfeeaf99f31192d772e2b3f96ee586f35"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_7_E3.npz": {
+      "size": 24148950,
+      "sha256": "c08227e8ae7c5bd23429f0d43bac22dfe4d92f86de9f873b78c2c427338e7783"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_7_E4.npz": {
+      "size": 6030710,
+      "sha256": "006937e7179d507ebf324fd7ef38ce0bfb3b1ae80388d5394f70049670d0bc96"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_8_D1.npz": {
+      "size": 389367510,
+      "sha256": "9abbb5ed0df9ed0b741b1796a48877ba8e5a8f48e93842abac824b107dbbf384"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_8_D2.npz": {
+      "size": 96841430,
+      "sha256": "65cd36230f96b32fe2aba8f76a61f507b29d1f5e829d9a6391cff64dc0c0c7ad"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_8_D3.npz": {
+      "size": 24148950,
+      "sha256": "3acc09858bf9b48923e11ec23a4e3c448f89978cccb256ad5916d65fb3ea4438"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_8_E3.npz": {
+      "size": 24148950,
+      "sha256": "f240bcbec99682adf496e786ac5e3f32335c7ddca3e9a2fa33bbf84eebc0d6da"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_8_E4.npz": {
+      "size": 6030710,
+      "sha256": "013f931d3553817895ca0c4042d34c180321033a64fc5037ab963daa9d5df90d"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_9_D1.npz": {
+      "size": 389367510,
+      "sha256": "94e6444b61eeadf8bdbe84a9e4dd7c0c586a12992aef2f4241c03395389ea80f"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_9_D2.npz": {
+      "size": 96841430,
+      "sha256": "6143f46c363692df468af3c401bfd79745dcb8653cfb4d32638bcace719b505b"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_9_D3.npz": {
+      "size": 24148950,
+      "sha256": "bf6e174c605ae13a88faa96abd24c7be29b1e3806e44b3b9fd9165a54f163efa"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_9_E3.npz": {
+      "size": 24148950,
+      "sha256": "8556b3dd63afdf2a1c0d8d55d00e30a38b9e90813fc7c299fef129df524d7151"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/features/L_9_E4.npz": {
+      "size": 6030710,
+      "sha256": "eac7b4d3abf3badf6fbb5e32403bfbcf6e14c0a42cca524bb4f1001e6e77a54f"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_0_D1.npz": {
+      "size": 167398,
+      "sha256": "8fbd38293862f599f34b881cf3413e7c2663c558e570f79d1173cbc09ec5fba7"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_0_D2.npz": {
+      "size": 394726,
+      "sha256": "2c42581f3a6b62d2ad490a51c84a6630275f237bb13f641e2125b1ba4a01259f"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_0_D3.npz": {
+      "size": 1574374,
+      "sha256": "eba124a2bb389a5cb82f08b1ba95e5d8c12daa84395c4e7f5c264aabe96895b8"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_0_E3.npz": {
+      "size": 2655718,
+      "sha256": "174be5e1b5297a897101339735614541d2073ddaa0a1e06ab8ab321ef54f87f7"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_0_E4.npz": {
+      "size": 10618342,
+      "sha256": "53f93ab7c38250e28fd5100fcdb303406233323cfaa86d93fa83fd6a0ab74f5e"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_10_D1.npz": {
+      "size": 167398,
+      "sha256": "8cfeb7b34521fb700025db541c163d36d36d87052f26722d06c61fb38dcf76cc"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_10_D2.npz": {
+      "size": 394726,
+      "sha256": "ad4c3c488d9a89ffabb4b52eaae83a1cdb9df3ee1e5391364f6af9d7ab528324"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_10_D3.npz": {
+      "size": 1574374,
+      "sha256": "b9077a3ef94ebbc7903ba8177c1a4b0a4e0a1ad12681df0c60525f5afe803da7"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_10_E3.npz": {
+      "size": 2655718,
+      "sha256": "200b36aa9d1f77ef94e2b33751925c2b934d64519e3385d1f764ad4355b22bc6"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_10_E4.npz": {
+      "size": 10618342,
+      "sha256": "b3a45bde4e5b0486b40fe599f65e6c09149952d7bd310aea99007fe38e0cdb7b"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_11_D1.npz": {
+      "size": 167398,
+      "sha256": "1bbea31518f1e80e8fffa272be983cb33defea81a2fd41cf6c9833ad844a8ab4"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_11_D2.npz": {
+      "size": 394726,
+      "sha256": "eea557daac5b7407e86906648a0328ce25ec04d1a04fde0fcf6542ce90a699c1"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_11_D3.npz": {
+      "size": 1574374,
+      "sha256": "43cbba9417c6363e615f5a2cd1779f021f6e3badcd15ebcd876460562b69090c"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_11_E3.npz": {
+      "size": 2655718,
+      "sha256": "ffc87653b5c4596dc5377cb5dd9ba89662a102594fe675dac221ea76c72253e7"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_11_E4.npz": {
+      "size": 10618342,
+      "sha256": "5147b72c8104c739301d632ff51e19a0421d01026e959e398d94920f9a7caf46"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_12_D1.npz": {
+      "size": 167398,
+      "sha256": "f02bdd4ea288ff8bab83cd6398401f653e9de96318c74ddcdf38cd84d2f3c837"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_12_D2.npz": {
+      "size": 394726,
+      "sha256": "3ef12897586234beeb815298a7b7aa85f02fc3bb9546efce420feee8f89180c2"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_12_D3.npz": {
+      "size": 1574374,
+      "sha256": "121470266bf4664d2c22ae8de969ba7d16a5bfdf05e17d00b4d1e431be4b5bd7"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_12_E3.npz": {
+      "size": 2655718,
+      "sha256": "032db09b50874a99e49368e0c7f114027bbcec09de2a80016196724594f69e3e"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_12_E4.npz": {
+      "size": 10618342,
+      "sha256": "9d4f8784eacb3befd6cf56958e85686c20124731d9eaf98ca600e5eb561fb32d"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_13_D1.npz": {
+      "size": 167398,
+      "sha256": "cc9a48c5d89c8d050e34bcbcbdb7af78e679bd6714885b1e14c6ced34ff074ca"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_13_D2.npz": {
+      "size": 394726,
+      "sha256": "68083f28a054b4c3c2b9b957054ca957f9addc816696be6ca68d3a502a5347a5"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_13_D3.npz": {
+      "size": 1574374,
+      "sha256": "329c691c1bad5c53eb351d2b23e2fffe9e12f85687a667b2341e9791d4bf918e"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_13_E3.npz": {
+      "size": 2655718,
+      "sha256": "b5ef34cbd3f25ffad506d79cb40ba93f872b2eea901f6baf3b927f37c93b8ba3"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_13_E4.npz": {
+      "size": 10618342,
+      "sha256": "d69bbe5f07b43587fa84b11af638e9839b99edd574ed3043a575eef905a239ce"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_14_D1.npz": {
+      "size": 167398,
+      "sha256": "e25b49604020421ec9442f5c720c3f4f826f59ada2821dd0772a31731080a97b"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_14_D2.npz": {
+      "size": 394726,
+      "sha256": "0fa814538d80cf3423f2b4a3b6c85a0d6698d4e5d41604cc41fa10f146c5ef7f"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_14_D3.npz": {
+      "size": 1574374,
+      "sha256": "3b83fe1004a048c9be9521293478ede5ded8ee11c4c3b2ae85c86260970b3cc6"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_14_E3.npz": {
+      "size": 2655718,
+      "sha256": "9c2c650d8199e7917a3e4fbb578683e056a5c6caea99594099393bd877e489dc"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_14_E4.npz": {
+      "size": 10618342,
+      "sha256": "a00067ce00f445457c72a6a998877627104ce86d61e317c24f3d521f9ab73735"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_15_D1.npz": {
+      "size": 167398,
+      "sha256": "b5ff8faeaffce787d32e04d4c4c35c70e973478a68e8f454a38569304169dd59"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_15_D2.npz": {
+      "size": 394726,
+      "sha256": "06cec3b67d049458b7c9dafe6778a39e0633d42d7219c9c06c6dc67f7166136b"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_15_D3.npz": {
+      "size": 1574374,
+      "sha256": "0b0237cb3992274857f38fa2e3538d10dcb5a63d9197df7a01b17d38374f3e97"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_15_E3.npz": {
+      "size": 2655718,
+      "sha256": "96e4fa52864c39a64156647071f6850ba7e3630f6dbd0d07454c8283b615ea30"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_15_E4.npz": {
+      "size": 10618342,
+      "sha256": "fa4e056120a6d53b52a33d7a4ab6d9d9ba4c772c1ff689ce7e53e01b4cea802e"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_1_D1.npz": {
+      "size": 167398,
+      "sha256": "78b8d75227e5f84c2094dd18600cefc5eb37137ff0294f7794f06c8c78ecf608"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_1_D2.npz": {
+      "size": 394726,
+      "sha256": "8da189f5857f95a035eb34027bc2453316d1b13243bb470769f8a0c2f312d703"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_1_D3.npz": {
+      "size": 1574374,
+      "sha256": "2f665ea4ac7b0fe1b07e3ea1d89ba96f0566e1ede707b7ca5a07cb3bbf6bd942"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_1_E3.npz": {
+      "size": 2655718,
+      "sha256": "a3b9b74102f8d624cf0b282a538e4a1bfb751bb3581dfbbfda81e4d438eea00e"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_1_E4.npz": {
+      "size": 10618342,
+      "sha256": "de9826b9855e0b1e72fa88bd9be51973aa99af7a77db63f208b6eb08199d674a"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_2_D1.npz": {
+      "size": 167398,
+      "sha256": "a47580ec991798124ff7037c633aec17e56869e28a889d2f6c9b38c5114c17ec"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_2_D2.npz": {
+      "size": 394726,
+      "sha256": "53d2dd8c9261749a092d67b8a9a861cb459c87e9f3aea66cc99025b31268d54e"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_2_D3.npz": {
+      "size": 1574374,
+      "sha256": "90ac0b2077e7fa2660631de1d4df72c8403cf46895ca97499569cdc51ee3797b"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_2_E3.npz": {
+      "size": 2655718,
+      "sha256": "5c80eea72ac12b2ca464418626590da8002431cf5503aeed30fce3e68356171b"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_2_E4.npz": {
+      "size": 10618342,
+      "sha256": "7314f5ef7b68f476619e730e2cda609d7d25988f6843e6a3f4658a786251823a"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_3_D1.npz": {
+      "size": 167398,
+      "sha256": "fe8fcab068d3b583879557bc7aaa5f7eb5ce6bc91e65008361ee3fd232c0764a"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_3_D2.npz": {
+      "size": 394726,
+      "sha256": "393a7764d089d9482d29ddd2238c7e7438822ef34d66c1bb0fee9b125aa173c6"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_3_D3.npz": {
+      "size": 1574374,
+      "sha256": "30e380ec6de9d5ed0376ed8b1030bb2f256a1e130e4196307b878e5addd57d8e"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_3_E3.npz": {
+      "size": 2655718,
+      "sha256": "40e0418ae6ff9a1e7623602fc814e976316e9d1c5e464e8e165d6b50690e2f39"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_3_E4.npz": {
+      "size": 10618342,
+      "sha256": "168452d432ddcbad66540692c5feea62649d0aa04043ca4e96214b5fb5ee93f1"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_4_D1.npz": {
+      "size": 167398,
+      "sha256": "74fea799521f6159dc16d529f2001a642748b83a19eedb8c010a5b27262662aa"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_4_D2.npz": {
+      "size": 394726,
+      "sha256": "0c26c0c14fe0b641baae9a18eb034ad4a1b7bfa29543839d0b1e807ee1521f49"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_4_D3.npz": {
+      "size": 1574374,
+      "sha256": "f01c70bd7264924f692d06f6f3e19a48911ea1d4d54b9248591b256e87bc1b53"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_4_E3.npz": {
+      "size": 2655718,
+      "sha256": "61a82136fb64e04b8a4852086cb414798fe5957b71b1296a9dbd4298b834fd98"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_4_E4.npz": {
+      "size": 10618342,
+      "sha256": "d7675e39d131b93adbc7d1a3842612d89cca1a18e31c461d35445edeee0a282d"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_5_D1.npz": {
+      "size": 167398,
+      "sha256": "5e02e9294ccc77773e77e130afe589ce73fdd17367b0288b8a911aacb751f6a6"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_5_D2.npz": {
+      "size": 394726,
+      "sha256": "95b0219bbcbf0e2dd360476da1ddf0455dd2fc0cbbad7414ec24cd9c0f9c7f05"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_5_D3.npz": {
+      "size": 1574374,
+      "sha256": "71e3652439f3357eedd79782a0206806dbe2e3d412bea15833dcc844d4cf9eb4"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_5_E3.npz": {
+      "size": 2655718,
+      "sha256": "11220344aed474d7120e39c10190b15fe473851720c84a499d2aa17428251a13"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_5_E4.npz": {
+      "size": 10618342,
+      "sha256": "365f2ff9028182ff2440c9c38d7ac48232ad757b173f0a3558e147400b1959dc"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_6_D1.npz": {
+      "size": 167398,
+      "sha256": "3229030df2e8c361bd3f52d9f3b7f1954f1bedfa9a972f225d1c02aed836171e"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_6_D2.npz": {
+      "size": 394726,
+      "sha256": "ac92268c9791cfe7aa2dc47f244e1fafd8e4068eed38f99ecf03707748d3f650"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_6_D3.npz": {
+      "size": 1574374,
+      "sha256": "1613a763e5c8ab262ece27dda14dafd4c0495e796a1c9681ca26f53e6d5060e6"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_6_E3.npz": {
+      "size": 2655718,
+      "sha256": "5237a43085ff15a1d52062f8e72e16370f559af4b58fd1f04c829808bfcd4a76"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_6_E4.npz": {
+      "size": 10618342,
+      "sha256": "9762581f6c0284100dfead9f348eb44cf95d8da6c6d32399f53cc03f6cb28c45"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_7_D1.npz": {
+      "size": 167398,
+      "sha256": "69c314b7eecc5d0f0b8ac88a4f76e9ad1d8a4495d94d94036e3f52e269ad6b2e"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_7_D2.npz": {
+      "size": 394726,
+      "sha256": "f040eb6d5d9ea9dee2bcf00d7d06e9426eb4d7b605f37d10561efe71c1151fef"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_7_D3.npz": {
+      "size": 1574374,
+      "sha256": "646f0f05171e8a29e2634cbea287c55307067db9f4ba7b4e7662634027ce230b"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_7_E3.npz": {
+      "size": 2655718,
+      "sha256": "77a3b982e438734255aaceda356b6bec0ba0f217cb4de713eb94d28a1f12bc21"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_7_E4.npz": {
+      "size": 10618342,
+      "sha256": "9545fc2121b06629e68cfb8aa2540b91053f3a9e1a8601838d55ac0fa313f596"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_8_D1.npz": {
+      "size": 167398,
+      "sha256": "39d9209128911d483ea20a91bc5cf91ca112a142de0a52f3cecaa5b5eee9b265"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_8_D2.npz": {
+      "size": 394726,
+      "sha256": "f3a17eaddd18485e89fc046a4f02e25df0f810cd657ccfd34e0d2499b50d9d67"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_8_D3.npz": {
+      "size": 1574374,
+      "sha256": "7d86968f830c2478b3f7e2b2d1d3591c7d423d07739c16e432af966659d5e64f"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_8_E3.npz": {
+      "size": 2655718,
+      "sha256": "eaf2329d95c2b85e2f1dc07d78e7c274440a63f31ef3b383387a49bb03c11aac"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_8_E4.npz": {
+      "size": 10618342,
+      "sha256": "0672aae49b85d48edec8e1621010f2088d37a805338d25ce48648a02b17fbd24"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_9_D1.npz": {
+      "size": 167398,
+      "sha256": "9640dfd7211121be5fd8222c8ff39f9dbdf1a8e082b501af6dc2cbde8579b020"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_9_D2.npz": {
+      "size": 394726,
+      "sha256": "f840509c809445aa2e6e1954d46b1b8fae861e4e12e7e2e458cfbf211fc8f420"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_9_D3.npz": {
+      "size": 1574374,
+      "sha256": "a89185a3622b4c978ae3a9e5e216cb2a9c340bb9dfe49b42a633de5ed1cb28ca"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_9_E3.npz": {
+      "size": 2655718,
+      "sha256": "6552cc3f1e4bc6aae0cfbde4fbb324195a51c4fdbc0d21548c09fcab082930e5"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/raw/parameters/L_9_E4.npz": {
+      "size": 10618342,
+      "sha256": "df1e5c5da268a43eeb8ea87c74573055cba4cea3b7f6d9c5ef08c43e6d2fa329"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/reconstruction.json": {
+      "size": 10184,
+      "sha256": "d1db0c08600b2dd429ef3411b332a6bd2e7b65d57aa32c469a2bf59c6c9509cd"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/source_at_run.json": {
+      "size": 1617,
+      "sha256": "72bb3cd40787407bae3176daf57207d58bd5036949c2a80b246b5bc1f4642985"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/main/theta_grams.json": {
+      "size": 28613,
+      "sha256": "df9250cb6e19f754e17662746c5960256aff1dd6ab0c19951c35cff2f0483f18"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/attribution.csv": {
+      "size": 176533,
+      "sha256": "9b8b0400bd2a4a37a35432ac149a78c40df846718371f84bdf43155967dae363"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/channel_relations.csv": {
+      "size": 1139199,
+      "sha256": "4463cf005de8bb819572545de8be482e35befd1ee1cb03dc6836314ded080ac2"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/compatibility.json": {
+      "size": 26536,
+      "sha256": "d7d74b4b03eb8f6601e93699fcebf196e8feef35b641b2df8d426b8cc2568ff5"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/conflicts.csv": {
+      "size": 58815,
+      "sha256": "e318b6d839ac8fb7301c7ddea067f569a3216b36ccf7105d803519778aa58f1c"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/contributions.csv": {
+      "size": 920508,
+      "sha256": "2c344dcd89408b72eef197353d42a271039125b92c9049f710d1e3d3e5532f43"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/endpoint_groups.json": {
+      "size": 155368,
+      "sha256": "9f17a4aa2546b027525a377b35b3060baee4758c659521b31e6adec391d13476"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/execution_results.json": {
+      "size": 725,
+      "sha256": "236d4c3e7d601dbef52b4c805be6b8b56e555896f23226eb7fd2d8e6d34facbe"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/hdf5_access_log.json": {
+      "size": 815,
+      "sha256": "882c20db8bfcab8936c23c9c27c6fbcc7575329d6ec3df1249663b9f7ff8bdb2"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/historical_MT_reference.csv": {
+      "size": 4783,
+      "sha256": "5a873d5c0417dc26bf937640429d56a140fde6bf79153bbb4d172004923c7c98"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/interventions.csv": {
+      "size": 37298,
+      "sha256": "a24a0d8b868ba5af609e392e48b1fa9956c3a8e7974b3df5e9452631824edfc7"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/joint_contributions.csv": {
+      "size": 438126,
+      "sha256": "f8c52434af2fe4dd6125729ebb096bc0ad2ac4690d3edf624c68e1d8728e60cf"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/losses.csv": {
+      "size": 1315,
+      "sha256": "2f4526e953440e80e9d030a541a03e1af72b754f496aa2c19a0ae380393fd829"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/lossnorm.csv": {
+      "size": 56633,
+      "sha256": "07be6a05714bc0ee95807ec06ee6bde818fbf059b5bcaaed836ccfaad6442144"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/node_identity.json": {
+      "size": 5779,
+      "sha256": "be4eb8031e106008bf0032608b9507df154eff90ff46ed9bc3d7e93b162f24b4"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/noise.json": {
+      "size": 9988,
+      "sha256": "d3595d435fda5816cfcf2f64bcdfe34f2509b8d15ba3578f5c9c0dcd1bb212c4"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/parameter_mapping.json": {
+      "size": 2193,
+      "sha256": "8ce734febd4369d1c8f57e5598424e03cd20fa05d09dd326a209acbcbe73fcfc"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/parameter_norms.csv": {
+      "size": 281434,
+      "sha256": "2822cc3b8d9d50f5d0da4f8317a41cefdbbdb6577632138230735af5b20ace30"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/L_0_logits.npz": {
+      "size": 38284270,
+      "sha256": "15edd4c80097110f1b4a3224f6ad494e2acbc18742139f1961ccf1499b6a217f"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/L_1_logits.npz": {
+      "size": 38284270,
+      "sha256": "847b2aaafd7a244bdb73ba22f7a39f6dede2525c4fea8831d55bd73fd03099cf"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/L_4_logits.npz": {
+      "size": 38284270,
+      "sha256": "2fabfc0796cfbf8bbc1bf76fe1f534d8a3f4400b1ea4156b4be3b2806dada6ee"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/L_5_logits.npz": {
+      "size": 38284270,
+      "sha256": "c84fc3320020f3f38a0fe95459c15cf0a535678278a696f94f8d66d00b105686"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_0_D1.npz": {
+      "size": 389367510,
+      "sha256": "33d93ebbf7b73ff630f91752d914714bdf869b7b775e84df34cb2f0a864c2b5d"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_0_D2.npz": {
+      "size": 96841430,
+      "sha256": "1a010065d3237353f64a4e4c0ce4495e75dcc864649a743bf2919cf9657d7c20"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_0_D3.npz": {
+      "size": 24148950,
+      "sha256": "fe85791fe13ffcf02661695f7a9945454790cb9e8e36b93469bb4449ab87dc05"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_0_E3.npz": {
+      "size": 24148950,
+      "sha256": "903ee59a0c24c3a1c40b32fa934fd2ab6c0c34e07d2bda88987dfcdacec2e4c8"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_0_E4.npz": {
+      "size": 6030710,
+      "sha256": "27e32a6ad4eab423add95d8cdaaebf6e62a378f4dee674ab1ea6f1a7895ca4e6"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_1_D1.npz": {
+      "size": 389367510,
+      "sha256": "0b606ea441a0a80c341f5ce5ec4d902ce46178fe8496031fbf88fe882e9c5096"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_1_D2.npz": {
+      "size": 96841430,
+      "sha256": "8742105e133f6a36cd6239e4fd8c45670015752ac8ea2f3ab6062c41fc2a62cf"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_1_D3.npz": {
+      "size": 24148950,
+      "sha256": "b35404e3f0558a98acf1a0b52d5b165ce440bd6b9e55a9f1d46dc28e1d428b37"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_1_E3.npz": {
+      "size": 24148950,
+      "sha256": "b51b24fb0ea688fc302c9a186ea8fa0fa184f200b37ffffce954af30ce9b028b"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_1_E4.npz": {
+      "size": 6030710,
+      "sha256": "640d969ed7f426a14fb8c2fa9dcdf06fec8ced558cd48953b906318966d330db"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_4_D1.npz": {
+      "size": 389367510,
+      "sha256": "a869686d6e241a3b54cf4baef735318ac0f70e346c8c5a5944b0c9bd9995c847"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_4_D2.npz": {
+      "size": 96841430,
+      "sha256": "84b4161450fcdac084b3c50c670ee78f4d4460008f76b2d6b8f89e39ca2917dc"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_4_D3.npz": {
+      "size": 24148950,
+      "sha256": "7d58fafbac5dffdb66ae40dd0dc78f8758edbd144e22cdbd06b0d7f2c9b79463"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_4_E3.npz": {
+      "size": 24148950,
+      "sha256": "7a6e56e823fb593cc7d99eee01014d830d0b0d1e5de6f11488d395867dc92aa8"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_4_E4.npz": {
+      "size": 6030710,
+      "sha256": "433228434b5c9dba0e7f30cb7924deeb6f245dcbde9c7ffa8687ca6f140a20ed"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_5_D1.npz": {
+      "size": 389367510,
+      "sha256": "9988114b2b6b734bc132de69d7f80420ae5cab0915afd6beb41e13683944bdb3"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_5_D2.npz": {
+      "size": 96841430,
+      "sha256": "fe23309bebc7814279c86d0e8942b8c847bed2d4d85fb05ce02770be4b341bbb"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_5_D3.npz": {
+      "size": 24148950,
+      "sha256": "ae7c213f74a4f3cff2c14edae48569857f8f7e92af8e993afc86c90532b3e6e8"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_5_E3.npz": {
+      "size": 24148950,
+      "sha256": "148a01db89a3f0190a20bcae88d721442209554f453ed81186b52ee145ba5448"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/features/L_5_E4.npz": {
+      "size": 6030710,
+      "sha256": "6adf98fabb35ad11ae653871b2a24175a3d38a5e461607681b371ee433f07e80"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_0_D1.npz": {
+      "size": 167398,
+      "sha256": "8fbd38293862f599f34b881cf3413e7c2663c558e570f79d1173cbc09ec5fba7"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_0_D2.npz": {
+      "size": 394726,
+      "sha256": "2c42581f3a6b62d2ad490a51c84a6630275f237bb13f641e2125b1ba4a01259f"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_0_D3.npz": {
+      "size": 1574374,
+      "sha256": "eba124a2bb389a5cb82f08b1ba95e5d8c12daa84395c4e7f5c264aabe96895b8"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_0_E3.npz": {
+      "size": 2655718,
+      "sha256": "174be5e1b5297a897101339735614541d2073ddaa0a1e06ab8ab321ef54f87f7"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_0_E4.npz": {
+      "size": 10618342,
+      "sha256": "53f93ab7c38250e28fd5100fcdb303406233323cfaa86d93fa83fd6a0ab74f5e"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_1_D1.npz": {
+      "size": 167398,
+      "sha256": "78b8d75227e5f84c2094dd18600cefc5eb37137ff0294f7794f06c8c78ecf608"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_1_D2.npz": {
+      "size": 394726,
+      "sha256": "8da189f5857f95a035eb34027bc2453316d1b13243bb470769f8a0c2f312d703"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_1_D3.npz": {
+      "size": 1574374,
+      "sha256": "2f665ea4ac7b0fe1b07e3ea1d89ba96f0566e1ede707b7ca5a07cb3bbf6bd942"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_1_E3.npz": {
+      "size": 2655718,
+      "sha256": "a3b9b74102f8d624cf0b282a538e4a1bfb751bb3581dfbbfda81e4d438eea00e"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_1_E4.npz": {
+      "size": 10618342,
+      "sha256": "de9826b9855e0b1e72fa88bd9be51973aa99af7a77db63f208b6eb08199d674a"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_4_D1.npz": {
+      "size": 167398,
+      "sha256": "74fea799521f6159dc16d529f2001a642748b83a19eedb8c010a5b27262662aa"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_4_D2.npz": {
+      "size": 394726,
+      "sha256": "0c26c0c14fe0b641baae9a18eb034ad4a1b7bfa29543839d0b1e807ee1521f49"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_4_D3.npz": {
+      "size": 1574374,
+      "sha256": "f01c70bd7264924f692d06f6f3e19a48911ea1d4d54b9248591b256e87bc1b53"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_4_E3.npz": {
+      "size": 2655718,
+      "sha256": "61a82136fb64e04b8a4852086cb414798fe5957b71b1296a9dbd4298b834fd98"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_4_E4.npz": {
+      "size": 10618342,
+      "sha256": "d7675e39d131b93adbc7d1a3842612d89cca1a18e31c461d35445edeee0a282d"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_5_D1.npz": {
+      "size": 167398,
+      "sha256": "5e02e9294ccc77773e77e130afe589ce73fdd17367b0288b8a911aacb751f6a6"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_5_D2.npz": {
+      "size": 394726,
+      "sha256": "95b0219bbcbf0e2dd360476da1ddf0455dd2fc0cbbad7414ec24cd9c0f9c7f05"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_5_D3.npz": {
+      "size": 1574374,
+      "sha256": "71e3652439f3357eedd79782a0206806dbe2e3d412bea15833dcc844d4cf9eb4"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_5_E3.npz": {
+      "size": 2655718,
+      "sha256": "11220344aed474d7120e39c10190b15fe473851720c84a499d2aa17428251a13"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/raw/parameters/L_5_E4.npz": {
+      "size": 10618342,
+      "sha256": "365f2ff9028182ff2440c9c38d7ac48232ad757b173f0a3558e147400b1959dc"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/reconstruction.json": {
+      "size": 10186,
+      "sha256": "75468562c36f9e75b1fbd646c37aecacb459ce14602ce3e8587485524a05f02d"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/source_at_run.json": {
+      "size": 1107,
+      "sha256": "33e38a1f66cdf59b4ad769b8fbd73541f6a0da923f25ba481877b80b0e31b2f5"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/source_snapshot/algebra_c15.py": {
+      "size": 2564,
+      "sha256": "784530f953ae9d1549fe751a7c57f6806df5d93e3ffcbf34f1429a362921e906"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/source_snapshot/c15_common.py": {
+      "size": 3022,
+      "sha256": "b1a10ef195f82ec423dd47e1b7650253f7a23ad7d2836ce1562b9f88611f0657"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/source_snapshot/run_c15.py": {
+      "size": 29190,
+      "sha256": "c552c1ef6ceca5f90521ce43922b3e1dcd30b2462ed1d8653e6e702a3b624423"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/source_snapshot/targets_c15.py": {
+      "size": 1281,
+      "sha256": "a9e0c6aaa8461ff27070b20f8dee09b65c8bd975bd23d1036ff07fe752200fe3"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke/theta_grams.json": {
+      "size": 7146,
+      "sha256": "f3918c724f336dacf8a7b45cdf901865e7716f60c5de1e3fb12f0a0d31752d30"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke_failed01/execution_results.json": {
+      "size": 712,
+      "sha256": "487d1981b54c9b1734df857b869bb0ec8ae0ff57c88af029e07c44ddeec84e85"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke_failed01/parameter_mapping.json": {
+      "size": 2193,
+      "sha256": "8ce734febd4369d1c8f57e5598424e03cd20fa05d09dd326a209acbcbe73fcfc"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke_failed01/raw/L_0_logits.npz": {
+      "size": 11246752,
+      "sha256": "c51eb95565e60e3501bf3be69394601cfebdd5d92650c46e69b4a46421137d68"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke_failed01/raw/features/L_0_D1.npz": {
+      "size": 105012324,
+      "sha256": "4f88e42ecef8c9059b9786ee3bf9c867e6ffd4dfb1088b9f67c2a7d9a8176618"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke_failed01/raw/features/L_0_D2.npz": {
+      "size": 45885624,
+      "sha256": "9b7e3772880a24c20d7f7d4a1e120b15ec910d826e1ce55ab41c60d18dadccd5"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke_failed01/raw/features/L_0_D3.npz": {
+      "size": 18856176,
+      "sha256": "ccc37cef5c2a2ec51b43fb505dabc765187d42635f000b28c08dd36ac425c666"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke_failed01/raw/features/L_0_E3.npz": {
+      "size": 20623079,
+      "sha256": "277f024d1602908e8cb402612acdcf2df0031f2daebd6096c0c3739065d04e53"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke_failed01/raw/features/L_0_E4.npz": {
+      "size": 5229118,
+      "sha256": "add1d962215bbdd57b1a21468fd20d78f57f3b483bd638c019963fd74e99a634"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke_failed01/raw/parameters/L_0_D1.npz": {
+      "size": 153104,
+      "sha256": "641380b2371c98592d80864bb75a268c5d19fd3ec3e908f58afc9c98e38e49ea"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke_failed01/raw/parameters/L_0_D2.npz": {
+      "size": 370234,
+      "sha256": "35b89e907afd8625db89e05c44313f57075fe517852320e1aa20f1b96a45bfed"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke_failed01/raw/parameters/L_0_D3.npz": {
+      "size": 1467536,
+      "sha256": "151e69b14d496cf2777300f52ece114a75c2e742714ace5023056be14f11f270"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke_failed01/raw/parameters/L_0_E3.npz": {
+      "size": 2465366,
+      "sha256": "853a58bc3a24df670266ea7870f9cbade613f2aec9d1e3d751f71514fa93982b"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke_failed01/raw/parameters/L_0_E4.npz": {
+      "size": 9857944,
+      "sha256": "600f07f65a7840493c4123b5f183714d4689213dd4646a3fab4c8cf5934b96ed"
+    },
+    "analysis/stage1c_c15_anchored_transition/runs/smoke_failed01/source_at_run.json": {
+      "size": 1015,
+      "sha256": "be078ef0df1fa1b6bccf4b848fdf439a9c3e429605a89342894527b1ce9945c3"
+    },
+    "analysis/stage1c_c15_anchored_transition/summarize_c15.py": {
+      "size": 17603,
+      "sha256": "e39d8db4596cd96db2837a3c068bd94e8eaff9a232e952657fe41736c12cde97"
+    },
+    "analysis/stage1c_c15_anchored_transition/summary/C15_diagnostics.pdf": {
+      "size": 25077,
+      "sha256": "77f489f9e7a7564c5d9027dda30dd3cf25644b851f509b2008f62bd49c3b0fb8"
+    },
+    "analysis/stage1c_c15_anchored_transition/summary/C15_diagnostics.png": {
+      "size": 132761,
+      "sha256": "24fa8a8d2ae5af5d7955f8e01dfe88ce706fb4a9b92c69330125653f5c9f34a0"
+    },
+    "analysis/stage1c_c15_anchored_transition/summary/SUMMARY.json": {
+      "size": 412,
+      "sha256": "ff4bec5a6531ab2e586d78b374b29d3081e3327ad8c303d57f27dcc77ed0ce6f"
+    },
+    "analysis/stage1c_c15_anchored_transition/summary/attribution_probe_bootstrap.json": {
+      "size": 349330,
+      "sha256": "95146a14b1b393885a2a704b295ac4f9af853c53769586a19d6017afe75367ce"
+    },
+    "analysis/stage1c_c15_anchored_transition/summary/attribution_probe_case.csv": {
+      "size": 115597,
+      "sha256": "e3859ecaa602ff4e10e931266d0f6616258bb74caa1f0dd7bf8d282c93ae5330"
+    },
+    "analysis/stage1c_c15_anchored_transition/summary/attribution_probe_predictions.csv": {
+      "size": 399696,
+      "sha256": "3791edec58888b74b4d609cc1928dd122001e5857cf6dd65cc6afe1eaf40d8a7"
+    },
+    "analysis/stage1c_c15_anchored_transition/summary/case_crop_stability.csv": {
+      "size": 119082,
+      "sha256": "dfa714006606b342c5d6c09b1cb4d88339bfa1b54bfa62c8f06da3f685ea15d8"
+    },
+    "analysis/stage1c_c15_anchored_transition/summary/channel_dot_signs.csv": {
+      "size": 18055,
+      "sha256": "b6ae39a5a5ebc74decf9bee5e1b62251a8576fe61ba4ba580e1a9c57d3f295c7"
+    },
+    "analysis/stage1c_c15_anchored_transition/summary/endpoint_class_groups.csv": {
+      "size": 177282,
+      "sha256": "e69651eb3fada541bb9b5594a178b794e88387990409eec81548d8a9bb140ba8"
+    },
+    "analysis/stage1c_c15_anchored_transition/summary/far_reference.json": {
+      "size": 140770,
+      "sha256": "ee586b4249176f1cecabec435a40b956d84291fead228f02c62c22edb8de9867"
+    },
+    "analysis/stage1c_c15_anchored_transition/summary/gradient_case_bootstrap.json": {
+      "size": 287816,
+      "sha256": "9dd4af6334368919fd2fe28ce52754756ec347cc5a408d130d390904d2901262"
+    },
+    "analysis/stage1c_c15_anchored_transition/summary/gradient_case_means.csv": {
+      "size": 89753,
+      "sha256": "ef3ab47744e35df3cc9c5d4e6a0bfa6eebedb3426450eede14ad5c14316534a1"
+    },
+    "analysis/stage1c_c15_anchored_transition/summary/gradient_global_pairs.csv": {
+      "size": 67978,
+      "sha256": "8644260ee51503bc86aea05769639f03daaae35432d694c3ed3dae775b286d3f"
+    },
+    "analysis/stage1c_c15_anchored_transition/summary/lossnorm_MT_stage_reference.csv": {
+      "size": 11911,
+      "sha256": "82a6db6341c9c9518b93c6b732b8646ad37e591e191a6e2d6b1237527cb8e252"
+    },
+    "analysis/stage1c_c15_anchored_transition/summary/lossnorm_ranges.csv": {
+      "size": 8547,
+      "sha256": "f64c261590b17abf336ac9137bf40187a56598c7e732f8776b31e694a266496c"
+    },
+    "analysis/stage1c_c15_anchored_transition/summary/pair_geometry_and_marginals.csv": {
+      "size": 7484,
+      "sha256": "95c3e3a4683c2bf7c9c5b195d4a2c3ff7eb6a48cd7bf54435b9ffdd219f9c1a1"
+    },
+    "analysis/stage1c_c15_anchored_transition/summary/paired_method_differences.json": {
+      "size": 16157,
+      "sha256": "7f57cb4fdb67e6b93fa6fe4d83aca62acda1071fc5341790e506bd1b51945df8"
+    },
+    "analysis/stage1c_c15_anchored_transition/targets_c15.py": {
+      "size": 1281,
+      "sha256": "a9e0c6aaa8461ff27070b20f8dee09b65c8bd975bd23d1036ff07fe752200fe3"
+    },
+    "analysis/stage1c_c15_anchored_transition/test_all_c15.py": {
+      "size": 1747,
+      "sha256": "fb05520abd7d70a80fe381889e32a981d0ab6deee9adf01ad9ef04debb3e688c"
+    },
+    "analysis/stage1c_c15_anchored_transition/verify_c15.py": {
+      "size": 7508,
+      "sha256": "fd062c49639d3bf94e68286c4eb0671211da96f16823a28ef2ccc06db4573718"
+    },
+    "analysis/stage1c_c15_anchored_transition/write_reports_c15.py": {
+      "size": 21909,
+      "sha256": "c69ea5b577c3bbff21d363e2c76973d0e780933059b39d737d1b3830ff464de8"
+    },
+    "tests/test_stage1c_c15.py": {
+      "size": 10252,
+      "sha256": "51abf6be017592320b742ae9867c1ae9cfd720a427154d35e5f3e20abe33127f"
+    }
+  },
+  "total_files": 335,
+  "total_bytes": 12130132789,
+  "elapsed_seconds": 34.666691202903166,
+  "policy": "NPZ/NPY arrays retained locally per existing gitignore; text/CSV/source and summary figures committed. Self excluded."
+}

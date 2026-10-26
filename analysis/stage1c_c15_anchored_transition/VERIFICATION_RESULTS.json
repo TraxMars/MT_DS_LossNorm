@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "checks": {
+    "test_suites": true,
+    "three_execution_gates": true,
+    "state_rng_BN_grad_slots_Lonly": true,
+    "discovery_only_plan": true,
+    "plan_hash_unchanged": true,
+    "core_sources_match_runs": true,
+    "smoke_reduction_equivalence": true,
+    "A_C0_C1_compatibility": true,
+    "direct_joint_LossNorm_autograd": true,
+    "true_pair_geometry_orientation": true,
+    "permuted_endpoint_marginals": true,
+    "independent_raw_losses": true,
+    "feature_mask_native_average": true,
+    "independent_signed_GxA": true,
+    "anchor_endpoint_CE_numeric_equivalence": true,
+    "all_parameter_gram_diagonal": true,
+    "fixed_intervention_count": true,
+    "energy_matching_valid": true,
+    "alpha_never_clipped": true,
+    "no_E4_interventions": true,
+    "fixed_channels_no_probe_reselection": true,
+    "discovery_scores_reconstruct": true,
+    "historical_sha256_1931": true
+  },
+  "compatibility_checks": 720,
+  "direct_reconstruction_checks": 140,
+  "max_feature_signed_GxA_relative_error": 2.9378941105173127e-13,
+  "max_mask_error": 0.0,
+  "max_compatibility_relative_error": 6.187688808982577e-07,
+  "max_anchor_endpoint_CE_difference": 5.5493387662863825e-12,
+  "invalid_interventions": 0,
+  "final_path_changed": 384,
+  "history": {
+    "status": "PASS",
+    "checked_files": 1931,
+    "changed": []
+  },
+  "failed_smoke_preserved": "runs/smoke_failed01/execution_results.json"
+}

@@ -1,0 +1,30 @@
+{
+  "phase": "calibration",
+  "sources": {
+    "targets_c15.py": "a9e0c6aaa8461ff27070b20f8dee09b65c8bd975bd23d1036ff07fe752200fe3",
+    "algebra_c15.py": "784530f953ae9d1549fe751a7c57f6806df5d93e3ffcbf34f1429a362921e906",
+    "check_reductions_c15.py": "ac310e08c0e7afb85011b37b685acaf380923d7a464e1c954be2a9d7c6ecbd23",
+    "reductions_c15.py": "c07b1bc3eafdb247783a83b928efe78e2d2a3cf9ce58d210c13b436c5fc2c02f",
+    "summarize_c15.py": "f42653082b1e98f3585f4e22cd19738e7ed04cbfbe017614b958f2b0d83fd710",
+    "verify_c15.py": "8dce0685e5f3f277962f3fb764d2167b11ec2c7592752e602c6f71a31bdbd7ab",
+    "run_c15.py": "f864256c86b5273204c53ec0732605fd2ae9a218ef4f05314c0a16be339ac30a",
+    "test_all_c15.py": "fb05520abd7d70a80fe381889e32a981d0ab6deee9adf01ad9ef04debb3e688c",
+    "c15_common.py": "b1a10ef195f82ec423dd47e1b7650253f7a23ad7d2836ce1562b9f88611f0657"
+  },
+  "design_sha256": "7a432c8896110d3f2adf03b93e2086c08fa5748cb2824df57bb721772ecd6370",
+  "plan_sha256": null,
+  "cases": [
+    "06SR5RBREL16DQ6M8LWS",
+    "1D7CUD1955YZPGK8XHJX",
+    "1MHBF3G6DCPWHSKG7XCP",
+    "2XL5HSFSE93RMOJDRGR4"
+  ],
+  "device": "cuda:0",
+  "gpu": "NVIDIA A100-SXM4-40GB",
+  "torch": "2.9.1+cu126",
+  "network_precision": "FP32",
+  "diagnostic_precision": "FP64",
+  "mode": "eval",
+  "checkpoint_sha256": "85489c52c0905aebde65eacf5cea215aac51ee825ed3e5a845da86fe7f23e168",
+  "C1_plan_sha256": "05f68c2826715d6a0e3b973c7ce4ef411dcb07f60512bba63282879c15da9c8b"
+}

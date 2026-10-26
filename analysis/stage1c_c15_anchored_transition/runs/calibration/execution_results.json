@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "phase": "calibration",
+  "cases": 4,
+  "crops": 8,
+  "interventions": 0,
+  "invariants": {
+    "student_state_unchanged": true,
+    "teacher_state_unchanged": true,
+    "teacher_frozen": true,
+    "all_grad_slots_none": true,
+    "both_eval": true,
+    "torch_rng_unchanged": true,
+    "cuda_rng_unchanged": true,
+    "numpy_rng_unchanged": true,
+    "python_rng_unchanged": true,
+    "no_leftover_hooks": true,
+    "only_L_data_opened": true,
+    "data_stats_unchanged": true,
+    "frozen_plan_unchanged": true
+  },
+  "elapsed_seconds": 44.16399055509828,
+  "peak_allocated_mib": 1911.9365234375,
+  "optimizer_steps": 0,
+  "checkpoint_writes": 0,
+  "formal_training": false,
+  "C2_C3_executed": false
+}

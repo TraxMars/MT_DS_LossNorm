@@ -1,0 +1,492 @@
+[
+  {
+    "index": 0,
+    "stage": "E3",
+    "kind": "feature",
+    "objective": "true_r10",
+    "relative_error": 6.002670860824741e-07
+  },
+  {
+    "index": 0,
+    "stage": "E3",
+    "kind": "parameter",
+    "objective": "true_r10",
+    "relative_error": 4.7292242417501594e-07
+  },
+  {
+    "index": 0,
+    "stage": "E4",
+    "kind": "feature",
+    "objective": "true_r10",
+    "relative_error": 8.608123572210878e-07
+  },
+  {
+    "index": 0,
+    "stage": "E4",
+    "kind": "parameter",
+    "objective": "true_r10",
+    "relative_error": 5.799781889809295e-07
+  },
+  {
+    "index": 0,
+    "stage": "D3",
+    "kind": "feature",
+    "objective": "true_r10",
+    "relative_error": 6.451391499648178e-07
+  },
+  {
+    "index": 0,
+    "stage": "D3",
+    "kind": "parameter",
+    "objective": "true_r10",
+    "relative_error": 3.688675852415003e-07
+  },
+  {
+    "index": 0,
+    "stage": "D2",
+    "kind": "feature",
+    "objective": "true_r10",
+    "relative_error": 3.8261736447626194e-07
+  },
+  {
+    "index": 0,
+    "stage": "D2",
+    "kind": "parameter",
+    "objective": "true_r10",
+    "relative_error": 1.1379302824155789e-07
+  },
+  {
+    "index": 0,
+    "stage": "D1",
+    "kind": "feature",
+    "objective": "true_r10",
+    "relative_error": 4.659535227739796e-08
+  },
+  {
+    "index": 0,
+    "stage": "D1",
+    "kind": "parameter",
+    "objective": "true_r10",
+    "relative_error": 2.644671393042351e-07
+  },
+  {
+    "index": 0,
+    "stage": "E3",
+    "kind": "feature",
+    "objective": "perm_r10",
+    "relative_error": 5.491064369024183e-07
+  },
+  {
+    "index": 0,
+    "stage": "E3",
+    "kind": "parameter",
+    "objective": "perm_r10",
+    "relative_error": 4.6056622643009837e-07
+  },
+  {
+    "index": 0,
+    "stage": "E4",
+    "kind": "feature",
+    "objective": "perm_r10",
+    "relative_error": 7.58375573634042e-07
+  },
+  {
+    "index": 0,
+    "stage": "E4",
+    "kind": "parameter",
+    "objective": "perm_r10",
+    "relative_error": 5.263707719549991e-07
+  },
+  {
+    "index": 0,
+    "stage": "D3",
+    "kind": "feature",
+    "objective": "perm_r10",
+    "relative_error": 5.836345672437061e-07
+  },
+  {
+    "index": 0,
+    "stage": "D3",
+    "kind": "parameter",
+    "objective": "perm_r10",
+    "relative_error": 3.784773503857301e-07
+  },
+  {
+    "index": 0,
+    "stage": "D2",
+    "kind": "feature",
+    "objective": "perm_r10",
+    "relative_error": 3.488039179678957e-07
+  },
+  {
+    "index": 0,
+    "stage": "D2",
+    "kind": "parameter",
+    "objective": "perm_r10",
+    "relative_error": 1.1656421458819993e-07
+  },
+  {
+    "index": 0,
+    "stage": "D1",
+    "kind": "feature",
+    "objective": "perm_r10",
+    "relative_error": 4.462552515605854e-08
+  },
+  {
+    "index": 0,
+    "stage": "D1",
+    "kind": "parameter",
+    "objective": "perm_r10",
+    "relative_error": 2.3195708847839925e-07
+  },
+  {
+    "index": 0,
+    "stage": "E3",
+    "kind": "feature",
+    "objective": "true_r30",
+    "relative_error": 6.014534219997372e-07
+  },
+  {
+    "index": 0,
+    "stage": "E3",
+    "kind": "parameter",
+    "objective": "true_r30",
+    "relative_error": 4.74357173323598e-07
+  },
+  {
+    "index": 0,
+    "stage": "E4",
+    "kind": "feature",
+    "objective": "true_r30",
+    "relative_error": 8.45123317857626e-07
+  },
+  {
+    "index": 0,
+    "stage": "E4",
+    "kind": "parameter",
+    "objective": "true_r30",
+    "relative_error": 5.721798301771675e-07
+  },
+  {
+    "index": 0,
+    "stage": "D3",
+    "kind": "feature",
+    "objective": "true_r30",
+    "relative_error": 6.430076899084867e-07
+  },
+  {
+    "index": 0,
+    "stage": "D3",
+    "kind": "parameter",
+    "objective": "true_r30",
+    "relative_error": 3.531092975007008e-07
+  },
+  {
+    "index": 0,
+    "stage": "D2",
+    "kind": "feature",
+    "objective": "true_r30",
+    "relative_error": 3.845890442111001e-07
+  },
+  {
+    "index": 0,
+    "stage": "D2",
+    "kind": "parameter",
+    "objective": "true_r30",
+    "relative_error": 1.1977964497966416e-07
+  },
+  {
+    "index": 0,
+    "stage": "D1",
+    "kind": "feature",
+    "objective": "true_r30",
+    "relative_error": 4.9803986203063876e-08
+  },
+  {
+    "index": 0,
+    "stage": "D1",
+    "kind": "parameter",
+    "objective": "true_r30",
+    "relative_error": 2.7830053162955514e-07
+  },
+  {
+    "index": 0,
+    "stage": "E3",
+    "kind": "feature",
+    "objective": "perm_r30",
+    "relative_error": 5.519303910396534e-07
+  },
+  {
+    "index": 0,
+    "stage": "E3",
+    "kind": "parameter",
+    "objective": "perm_r30",
+    "relative_error": 4.863722516217258e-07
+  },
+  {
+    "index": 0,
+    "stage": "E4",
+    "kind": "feature",
+    "objective": "perm_r30",
+    "relative_error": 7.527574209748492e-07
+  },
+  {
+    "index": 0,
+    "stage": "E4",
+    "kind": "parameter",
+    "objective": "perm_r30",
+    "relative_error": 5.441291105582611e-07
+  },
+  {
+    "index": 0,
+    "stage": "D3",
+    "kind": "feature",
+    "objective": "perm_r30",
+    "relative_error": 5.934257499738612e-07
+  },
+  {
+    "index": 0,
+    "stage": "D3",
+    "kind": "parameter",
+    "objective": "perm_r30",
+    "relative_error": 4.2705942410473334e-07
+  },
+  {
+    "index": 0,
+    "stage": "D2",
+    "kind": "feature",
+    "objective": "perm_r30",
+    "relative_error": 3.568750541657793e-07
+  },
+  {
+    "index": 0,
+    "stage": "D2",
+    "kind": "parameter",
+    "objective": "perm_r30",
+    "relative_error": 1.4008549356478218e-07
+  },
+  {
+    "index": 0,
+    "stage": "D1",
+    "kind": "feature",
+    "objective": "perm_r30",
+    "relative_error": 4.9267435834903816e-08
+  },
+  {
+    "index": 0,
+    "stage": "D1",
+    "kind": "parameter",
+    "objective": "perm_r30",
+    "relative_error": 2.0612523524210185e-07
+  },
+  {
+    "index": 0,
+    "stage": "E3",
+    "kind": "LossNorm_parameter",
+    "objective": "boundary",
+    "relative_error": 5.43721459252863e-07
+  },
+  {
+    "index": 0,
+    "stage": "E4",
+    "kind": "LossNorm_parameter",
+    "objective": "boundary",
+    "relative_error": 5.204993136255297e-07
+  },
+  {
+    "index": 0,
+    "stage": "D3",
+    "kind": "LossNorm_parameter",
+    "objective": "boundary",
+    "relative_error": 3.267889080136886e-07
+  },
+  {
+    "index": 0,
+    "stage": "D2",
+    "kind": "LossNorm_parameter",
+    "objective": "boundary",
+    "relative_error": 1.2417356399357686e-07
+  },
+  {
+    "index": 0,
+    "stage": "D1",
+    "kind": "LossNorm_parameter",
+    "objective": "boundary",
+    "relative_error": 2.834978477919512e-07
+  },
+  {
+    "index": 0,
+    "stage": "E3",
+    "kind": "LossNorm_parameter",
+    "objective": "anchor",
+    "relative_error": 5.450145286846043e-07
+  },
+  {
+    "index": 0,
+    "stage": "E4",
+    "kind": "LossNorm_parameter",
+    "objective": "anchor",
+    "relative_error": 4.906230707487005e-07
+  },
+  {
+    "index": 0,
+    "stage": "D3",
+    "kind": "LossNorm_parameter",
+    "objective": "anchor",
+    "relative_error": 3.2556719827866846e-07
+  },
+  {
+    "index": 0,
+    "stage": "D2",
+    "kind": "LossNorm_parameter",
+    "objective": "anchor",
+    "relative_error": 1.1779114107121668e-07
+  },
+  {
+    "index": 0,
+    "stage": "D1",
+    "kind": "LossNorm_parameter",
+    "objective": "anchor",
+    "relative_error": 2.5811756938384024e-07
+  },
+  {
+    "index": 0,
+    "stage": "E3",
+    "kind": "LossNorm_parameter",
+    "objective": "true_r10",
+    "relative_error": 5.242879508188136e-07
+  },
+  {
+    "index": 0,
+    "stage": "E4",
+    "kind": "LossNorm_parameter",
+    "objective": "true_r10",
+    "relative_error": 5.082595533052278e-07
+  },
+  {
+    "index": 0,
+    "stage": "D3",
+    "kind": "LossNorm_parameter",
+    "objective": "true_r10",
+    "relative_error": 3.1358300929024583e-07
+  },
+  {
+    "index": 0,
+    "stage": "D2",
+    "kind": "LossNorm_parameter",
+    "objective": "true_r10",
+    "relative_error": 1.1677730687344392e-07
+  },
+  {
+    "index": 0,
+    "stage": "D1",
+    "kind": "LossNorm_parameter",
+    "objective": "true_r10",
+    "relative_error": 2.574936716276619e-07
+  },
+  {
+    "index": 0,
+    "stage": "E3",
+    "kind": "LossNorm_parameter",
+    "objective": "true_r30",
+    "relative_error": 5.313420893366439e-07
+  },
+  {
+    "index": 0,
+    "stage": "E4",
+    "kind": "LossNorm_parameter",
+    "objective": "true_r30",
+    "relative_error": 4.933611484733393e-07
+  },
+  {
+    "index": 0,
+    "stage": "D3",
+    "kind": "LossNorm_parameter",
+    "objective": "true_r30",
+    "relative_error": 3.2753372649989633e-07
+  },
+  {
+    "index": 0,
+    "stage": "D2",
+    "kind": "LossNorm_parameter",
+    "objective": "true_r30",
+    "relative_error": 1.0745607547085762e-07
+  },
+  {
+    "index": 0,
+    "stage": "D1",
+    "kind": "LossNorm_parameter",
+    "objective": "true_r30",
+    "relative_error": 2.538505570535542e-07
+  },
+  {
+    "index": 0,
+    "stage": "E3",
+    "kind": "LossNorm_parameter",
+    "objective": "perm_r10",
+    "relative_error": 5.449673306396468e-07
+  },
+  {
+    "index": 0,
+    "stage": "E4",
+    "kind": "LossNorm_parameter",
+    "objective": "perm_r10",
+    "relative_error": 5.146702749379391e-07
+  },
+  {
+    "index": 0,
+    "stage": "D3",
+    "kind": "LossNorm_parameter",
+    "objective": "perm_r10",
+    "relative_error": 3.272978485882717e-07
+  },
+  {
+    "index": 0,
+    "stage": "D2",
+    "kind": "LossNorm_parameter",
+    "objective": "perm_r10",
+    "relative_error": 1.7561895084223602e-07
+  },
+  {
+    "index": 0,
+    "stage": "D1",
+    "kind": "LossNorm_parameter",
+    "objective": "perm_r10",
+    "relative_error": 3.0245219280236045e-07
+  },
+  {
+    "index": 0,
+    "stage": "E3",
+    "kind": "LossNorm_parameter",
+    "objective": "perm_r30",
+    "relative_error": 5.257647239824268e-07
+  },
+  {
+    "index": 0,
+    "stage": "E4",
+    "kind": "LossNorm_parameter",
+    "objective": "perm_r30",
+    "relative_error": 5.003407231085414e-07
+  },
+  {
+    "index": 0,
+    "stage": "D3",
+    "kind": "LossNorm_parameter",
+    "objective": "perm_r30",
+    "relative_error": 3.315035631347881e-07
+  },
+  {
+    "index": 0,
+    "stage": "D2",
+    "kind": "LossNorm_parameter",
+    "objective": "perm_r30",
+    "relative_error": 1.2656316431049378e-07
+  },
+  {
+    "index": 0,
+    "stage": "D1",
+    "kind": "LossNorm_parameter",
+    "objective": "perm_r30",
+    "relative_error": 2.6989447061688346e-07
+  }
+]

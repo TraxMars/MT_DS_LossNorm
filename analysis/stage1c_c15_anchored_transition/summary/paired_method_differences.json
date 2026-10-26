@@ -1,0 +1,938 @@
+[
+  {
+    "stage": "E3",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "signed_rho",
+    "mean": 0.375,
+    "ci": [
+      -0.25,
+      0.875
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "E3",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "abs_rho",
+    "mean": 0.25,
+    "ci": [
+      -0.25,
+      0.5
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "E3",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "E3",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "E3",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "abs_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "E3",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "E3",
+    "dose": 0.01,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "signed_rho",
+    "mean": -0.375,
+    "ci": [
+      -0.875,
+      0.25
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "E3",
+    "dose": 0.01,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "abs_rho",
+    "mean": -0.25,
+    "ci": [
+      -0.5,
+      0.25
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "E3",
+    "dose": 0.01,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "E3",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "signed_rho",
+    "mean": 0.375,
+    "ci": [
+      -0.25,
+      0.875
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "E3",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "abs_rho",
+    "mean": 0.25,
+    "ci": [
+      -0.25,
+      0.5
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "E3",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "E3",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "E3",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "abs_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "E3",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "E3",
+    "dose": 0.03,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "signed_rho",
+    "mean": -0.375,
+    "ci": [
+      -0.875,
+      0.25
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "E3",
+    "dose": 0.03,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "abs_rho",
+    "mean": -0.25,
+    "ci": [
+      -0.5,
+      0.25
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "E3",
+    "dose": 0.03,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D3",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D3",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "abs_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D3",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D3",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D3",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "abs_rho",
+    "mean": 0.375,
+    "ci": [
+      -0.25,
+      0.875
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D3",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D3",
+    "dose": 0.01,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D3",
+    "dose": 0.01,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "abs_rho",
+    "mean": 0.375,
+    "ci": [
+      -0.25,
+      0.875
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D3",
+    "dose": 0.01,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D3",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D3",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "abs_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D3",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D3",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D3",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "abs_rho",
+    "mean": 0.375,
+    "ci": [
+      -0.25,
+      0.875
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D3",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D3",
+    "dose": 0.03,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D3",
+    "dose": 0.03,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "abs_rho",
+    "mean": 0.375,
+    "ci": [
+      -0.25,
+      0.875
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D3",
+    "dose": 0.03,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D2",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D2",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "abs_rho",
+    "mean": 0.75,
+    "ci": [
+      0.5,
+      1.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D2",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D2",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D2",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "abs_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D2",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D2",
+    "dose": 0.01,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D2",
+    "dose": 0.01,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "abs_rho",
+    "mean": -0.75,
+    "ci": [
+      -1.0,
+      -0.5
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D2",
+    "dose": 0.01,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D2",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D2",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "abs_rho",
+    "mean": 0.75,
+    "ci": [
+      0.5,
+      1.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D2",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D2",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D2",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "abs_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D2",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D2",
+    "dose": 0.03,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D2",
+    "dose": 0.03,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "abs_rho",
+    "mean": -0.75,
+    "ci": [
+      -1.0,
+      -0.5
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D2",
+    "dose": 0.03,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D1",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D1",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "abs_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D1",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D1",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D1",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "abs_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D1",
+    "dose": 0.01,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D1",
+    "dose": 0.01,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D1",
+    "dose": 0.01,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "abs_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D1",
+    "dose": 0.01,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D1",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D1",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "abs_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D1",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "anchor",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D1",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D1",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "abs_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D1",
+    "dose": 0.03,
+    "left": "true_r30",
+    "right": "perm_r30",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D1",
+    "dose": 0.03,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "signed_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D1",
+    "dose": 0.03,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "abs_rho",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  },
+  {
+    "stage": "D1",
+    "dose": 0.03,
+    "left": "anchor",
+    "right": "boundary",
+    "metric": "direction_accuracy",
+    "mean": 0.0,
+    "ci": [
+      0.0,
+      0.0
+    ],
+    "status": "exploratory_case_bootstrap"
+  }
+]
